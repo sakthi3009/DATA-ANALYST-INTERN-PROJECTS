@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Delivery_Date,Product_ID,Category,Supplier,Price,Quantity,Region,City,Marketing_Channel,Return_Status,Return_Date,Return_Reason
+ORD100000,2024-10-21,2024-10-27,P1102,Electronics,Supplier A,758.41,3,South,Chennai,Social Media,No,,
+ORD100001,2024-11-16,2024-11-20,P1179,Fashion,Supplier C,814.39,1,West,Chennai,Ads,Yes,2024-11-24,Wrong Item
+ORD100002,2024-08-20,2024-08-27,P1092,Electronics,Supplier A,734.67,3,East,Mumbai,Social Media,Yes,2024-09-08,Damaged
+ORD100003,2024-06-06,2024-06-10,P1014,Sports,Supplier A,619.34,1,South,Chennai,Social Media,No,,
+ORD100004,2024-09-25,2024-10-02,P1106,Electronics,Supplier A,1160.1,3,South,Chennai,Social Media,No,,
+ORD100005,2024-01-21,2024-01-29,P1071,Fashion,Supplier D,28.18,2,East,Mumbai,Email,No,,
+ORD100006,2024-02-22,2024-02-27,P1188,Home,Supplier A,901.68,3,West,Chennai,Email,No,,
+ORD100007,2024-10-01,2024-10-10,P1020,Electronics,Supplier A,852.61,2,East,Bangalore,Social Media,No,,
+ORD100008,2024-11-08,2024-11-14,P1102,Beauty,Supplier B,1077.11,2,North,Bangalore,Organic,Yes,2024-11-27,Late Delivery
+ORD100009,2024-10-07,2024-10-11,P1121,Home,Supplier B,902.55,3,North,Kolkata,Social Media,No,,
+ORD100010,2024-08-01,2024-08-08,P1074,Beauty,Supplier D,1241.93,1,West,Bangalore,Social Media,No,,
+ORD100011,2024-01-31,2024-02-07,P1087,Beauty,Supplier A,1439.02,1,South,Delhi,Ads,No,,
+ORD100012,2024-12-02,2024-12-10,P1116,Beauty,Supplier B,520.36,4,South,Delhi,Social Media,No,,
+ORD100013,2024-07-01,2024-07-08,P1099,Electronics,Supplier B,348.75,1,South,Delhi,Email,No,,
+ORD100014,2024-01-23,2024-02-01,P1103,Sports,Supplier C,641.16,4,East,Mumbai,Ads,No,,
+ORD100015,2024-02-01,2024-02-04,P1151,Home,Supplier A,439.02,1,East,Bangalore,Organic,No,,
+ORD100016,2024-03-14,2024-03-16,P1130,Fashion,Supplier B,926.28,1,West,Delhi,Ads,No,,
+ORD100017,2024-01-10,2024-01-19,P1149,Sports,Supplier D,1368.66,2,North,Kolkata,Organic,Yes,2024-01-21,Damaged
+ORD100018,2024-02-23,2024-02-28,P1052,Electronics,Supplier C,217.28,4,South,Mumbai,Ads,No,,
+ORD100019,2024-02-21,2024-03-01,P1001,Beauty,Supplier C,160.18,1,North,Kolkata,Ads,No,,
+ORD100020,2024-05-27,2024-06-04,P1087,Fashion,Supplier A,391.46,4,East,Bangalore,Organic,No,,
+ORD100021,2024-06-08,2024-06-16,P1157,Home,Supplier A,1091.88,2,East,Chennai,Email,No,,
+ORD100022,2024-01-14,2024-01-23,P1037,Sports,Supplier C,893.51,2,East,Kolkata,Email,No,,
+ORD100023,2024-06-26,2024-06-30,P1129,Sports,Supplier D,162.3,4,North,Chennai,Email,No,,
+ORD100024,2024-02-22,2024-02-25,P1191,Fashion,Supplier A,1378.94,2,West,Mumbai,Ads,No,,
+ORD100025,2024-11-30,2024-12-04,P1187,Electronics,Supplier A,1187.23,3,West,Kolkata,Social Media,No,,
+ORD100026,2024-01-22,2024-01-26,P1020,Home,Supplier C,44.3,3,East,Kolkata,Ads,No,,
+ORD100027,2024-01-30,2024-02-08,P1160,Fashion,Supplier C,980.54,2,South,Hyderabad,Social Media,No,,
+ORD100028,2024-07-09,2024-07-15,P1057,Beauty,Supplier A,1159.16,3,North,Mumbai,Social Media,Yes,2024-07-17,Not as Described
+ORD100029,2024-09-16,2024-09-22,P1021,Home,Supplier B,567.91,1,East,Mumbai,Email,No,,
+ORD100030,2024-07-23,2024-07-29,P1088,Sports,Supplier A,112.69,4,North,Delhi,Social Media,No,,
+ORD100031,2024-02-28,2024-03-02,P1048,Fashion,Supplier B,125.21,1,North,Bangalore,Ads,Yes,2024-03-09,Damaged
+ORD100032,2024-09-20,2024-09-24,P1058,Sports,Supplier C,165.33,4,West,Kolkata,Ads,No,,
+ORD100033,2024-01-12,2024-01-14,P1169,Sports,Supplier B,1262.26,2,East,Kolkata,Email,Yes,2024-01-27,No Longer Needed
+ORD100034,2024-04-28,2024-05-03,P1187,Sports,Supplier D,1366.92,1,West,Mumbai,Organic,No,,
+ORD100035,2024-10-16,2024-10-22,P1014,Electronics,Supplier C,192.99,2,East,Mumbai,Ads,No,,
+ORD100036,2024-12-03,2024-12-09,P1189,Sports,Supplier A,361.5,2,North,Bangalore,Social Media,No,,
+ORD100037,2024-09-04,2024-09-12,P1189,Beauty,Supplier A,256.63,4,West,Mumbai,Ads,No,,
+ORD100038,2024-12-19,2024-12-23,P1174,Beauty,Supplier C,287.62,4,North,Chennai,Ads,Yes,2024-12-24,Size Issue
+ORD100039,2024-05-06,2024-05-10,P1189,Home,Supplier C,1257.86,4,East,Chennai,Ads,Yes,2024-05-17,Damaged
+ORD100040,2024-03-15,2024-03-18,P1050,Sports,Supplier D,504.9,1,South,Hyderabad,Organic,No,,
+ORD100041,2024-12-26,2024-12-29,P1107,Sports,Supplier C,474.05,3,West,Chennai,Social Media,No,,
+ORD100042,2024-07-22,2024-07-28,P1054,Fashion,Supplier A,348.82,4,West,Chennai,Email,No,,
+ORD100043,2024-02-18,2024-02-22,P1063,Electronics,Supplier D,915.76,4,North,Bangalore,Ads,No,,
+ORD100044,2024-03-19,2024-03-21,P1130,Home,Supplier A,575.17,1,North,Kolkata,Social Media,No,,
+ORD100045,2024-08-28,2024-09-02,P1050,Sports,Supplier B,1118.93,4,South,Chennai,Social Media,No,,
+ORD100046,2024-12-14,2024-12-23,P1134,Fashion,Supplier C,316.31,1,West,Hyderabad,Email,No,,
+ORD100047,2024-06-02,2024-06-06,P1020,Electronics,Supplier B,1183.81,2,East,Mumbai,Ads,No,,
+ORD100048,2024-09-30,2024-10-08,P1072,Home,Supplier A,909.55,4,East,Chennai,Organic,No,,
+ORD100049,2024-04-05,2024-04-14,P1166,Home,Supplier B,180.26,4,West,Hyderabad,Social Media,No,,
+ORD100050,2024-08-01,2024-08-05,P1017,Sports,Supplier B,627.61,2,West,Bangalore,Email,Yes,2024-08-19,Damaged
+ORD100051,2024-10-20,2024-10-27,P1131,Home,Supplier A,1296.64,2,West,Mumbai,Organic,No,,
+ORD100052,2024-07-27,2024-07-30,P1088,Fashion,Supplier A,1385.21,2,South,Hyderabad,Social Media,Yes,2024-08-11,Damaged
+ORD100053,2024-12-08,2024-12-16,P1059,Home,Supplier C,703.89,4,East,Chennai,Ads,No,,
+ORD100054,2024-03-28,2024-04-02,P1013,Beauty,Supplier B,726.45,3,East,Kolkata,Social Media,No,,
+ORD100055,2024-11-01,2024-11-07,P1008,Fashion,Supplier D,1378.5,3,North,Mumbai,Organic,No,,
+ORD100056,2024-09-20,2024-09-28,P1089,Electronics,Supplier D,884.73,3,North,Mumbai,Organic,No,,
+ORD100057,2024-11-20,2024-11-24,P1052,Electronics,Supplier A,58.94,4,West,Kolkata,Ads,No,,
+ORD100058,2024-11-15,2024-11-21,P1129,Sports,Supplier A,1370.0,2,North,Mumbai,Ads,No,,
+ORD100059,2024-06-05,2024-06-09,P1083,Sports,Supplier B,379.86,4,South,Chennai,Email,No,,
+ORD100060,2024-06-04,2024-06-10,P1091,Beauty,Supplier A,870.67,2,East,Mumbai,Ads,No,,
+ORD100061,2024-05-18,2024-05-23,P1110,Electronics,Supplier D,256.61,4,East,Chennai,Email,No,,
+ORD100062,2024-04-30,2024-05-03,P1187,Electronics,Supplier C,60.48,4,North,Kolkata,Organic,No,,
+ORD100063,2024-03-05,2024-03-10,P1198,Electronics,Supplier C,474.1,2,West,Delhi,Organic,No,,
+ORD100064,2024-04-16,2024-04-23,P1171,Electronics,Supplier B,1172.94,3,North,Kolkata,Social Media,No,,
+ORD100065,2024-05-26,2024-05-28,P1007,Home,Supplier C,423.6,2,West,Chennai,Social Media,No,,
+ORD100066,2024-05-16,2024-05-19,P1174,Fashion,Supplier A,337.94,1,South,Bangalore,Email,No,,
+ORD100067,2024-06-10,2024-06-15,P1034,Fashion,Supplier A,326.89,1,East,Kolkata,Ads,No,,
+ORD100068,2024-04-09,2024-04-16,P1080,Beauty,Supplier A,777.61,2,South,Bangalore,Ads,No,,
+ORD100069,2024-12-03,2024-12-05,P1163,Home,Supplier A,1463.56,4,East,Bangalore,Social Media,No,,
+ORD100070,2024-11-02,2024-11-09,P1049,Electronics,Supplier B,693.89,1,South,Chennai,Organic,No,,
+ORD100071,2024-05-20,2024-05-24,P1103,Electronics,Supplier C,840.38,1,North,Chennai,Email,No,,
+ORD100072,2024-03-23,2024-04-01,P1131,Sports,Supplier D,1292.34,4,South,Delhi,Organic,No,,
+ORD100073,2024-06-25,2024-06-29,P1001,Sports,Supplier C,807.25,4,South,Hyderabad,Organic,No,,
+ORD100074,2024-07-16,2024-07-22,P1133,Beauty,Supplier A,284.85,3,North,Mumbai,Ads,No,,
+ORD100075,2024-04-21,2024-04-24,P1053,Electronics,Supplier D,456.4,4,East,Kolkata,Email,No,,
+ORD100076,2024-02-25,2024-02-29,P1105,Beauty,Supplier B,471.81,2,East,Chennai,Organic,Yes,2024-03-14,Wrong Item
+ORD100077,2024-06-27,2024-07-05,P1003,Home,Supplier A,602.0,2,North,Kolkata,Social Media,No,,
+ORD100078,2024-07-04,2024-07-11,P1053,Fashion,Supplier A,645.92,3,South,Hyderabad,Social Media,No,,
+ORD100079,2024-08-05,2024-08-08,P1190,Electronics,Supplier D,1201.68,1,South,Hyderabad,Ads,No,,
+ORD100080,2024-11-11,2024-11-20,P1145,Home,Supplier B,530.59,1,South,Bangalore,Social Media,Yes,2024-12-02,Wrong Item
+ORD100081,2024-08-04,2024-08-12,P1043,Electronics,Supplier D,707.67,4,West,Mumbai,Social Media,No,,
+ORD100082,2024-04-29,2024-05-03,P1161,Sports,Supplier B,941.21,2,East,Delhi,Organic,Yes,2024-05-17,Not as Described
+ORD100083,2024-06-23,2024-06-29,P1189,Beauty,Supplier A,572.81,1,South,Kolkata,Social Media,No,,
+ORD100084,2024-01-23,2024-01-28,P1013,Sports,Supplier C,1256.48,3,East,Mumbai,Social Media,No,,
+ORD100085,2024-07-31,2024-08-06,P1094,Fashion,Supplier A,885.31,3,South,Delhi,Organic,No,,
+ORD100086,2024-08-22,2024-08-30,P1047,Sports,Supplier C,448.13,2,North,Kolkata,Ads,No,,
+ORD100087,2024-01-13,2024-01-15,P1014,Electronics,Supplier C,1073.95,3,North,Mumbai,Ads,No,,
+ORD100088,2024-04-10,2024-04-14,P1199,Sports,Supplier B,796.2,3,East,Chennai,Email,Yes,2024-04-15,Size Issue
+ORD100089,2024-01-24,2024-02-01,P1189,Electronics,Supplier D,806.34,2,East,Kolkata,Social Media,No,,
+ORD100090,2024-12-29,2024-12-31,P1039,Fashion,Supplier B,726.82,4,North,Mumbai,Organic,No,,
+ORD100091,2024-01-11,2024-01-13,P1081,Sports,Supplier A,750.55,4,West,Hyderabad,Email,No,,
+ORD100092,2024-09-29,2024-10-06,P1110,Beauty,Supplier D,1150.38,3,North,Delhi,Ads,Yes,2024-10-20,Damaged
+ORD100093,2024-10-07,2024-10-10,P1052,Beauty,Supplier C,163.44,4,South,Mumbai,Ads,No,,
+ORD100094,2024-04-03,2024-04-10,P1023,Beauty,Supplier C,508.2,4,West,Chennai,Organic,No,,
+ORD100095,2024-07-19,2024-07-23,P1153,Sports,Supplier A,122.5,3,North,Kolkata,Email,No,,
+ORD100096,2024-01-21,2024-01-23,P1187,Sports,Supplier D,1132.34,4,West,Kolkata,Email,Yes,2024-01-29,Damaged
+ORD100097,2024-12-05,2024-12-14,P1123,Sports,Supplier A,415.73,3,West,Kolkata,Organic,No,,
+ORD100098,2024-07-29,2024-08-06,P1040,Electronics,Supplier A,1347.17,1,West,Chennai,Organic,No,,
+ORD100099,2024-05-19,2024-05-24,P1156,Fashion,Supplier B,794.6,2,East,Delhi,Email,No,,
+ORD100100,2024-10-19,2024-10-21,P1014,Beauty,Supplier A,1203.12,2,North,Kolkata,Ads,No,,
+ORD100101,2024-10-24,2024-11-01,P1044,Electronics,Supplier D,1468.61,4,East,Delhi,Social Media,No,,
+ORD100102,2024-04-10,2024-04-19,P1064,Beauty,Supplier A,1261.29,4,East,Mumbai,Ads,No,,
+ORD100103,2024-10-30,2024-11-04,P1088,Electronics,Supplier D,1301.82,4,South,Hyderabad,Organic,Yes,2024-11-07,Damaged
+ORD100104,2024-12-24,2024-12-31,P1070,Sports,Supplier C,617.9,2,South,Hyderabad,Email,Yes,2025-01-08,Damaged
+ORD100105,2024-01-28,2024-02-04,P1008,Beauty,Supplier A,832.07,1,West,Delhi,Email,No,,
+ORD100106,2024-02-10,2024-02-13,P1087,Sports,Supplier D,388.29,1,West,Delhi,Social Media,Yes,2024-02-19,Wrong Item
+ORD100107,2024-12-20,2024-12-28,P1128,Beauty,Supplier C,302.21,2,South,Hyderabad,Email,No,,
+ORD100108,2024-10-29,2024-10-31,P1135,Home,Supplier D,763.21,1,South,Kolkata,Social Media,No,,
+ORD100109,2024-05-25,2024-05-31,P1062,Electronics,Supplier C,896.62,2,North,Bangalore,Ads,No,,
+ORD100110,2024-09-12,2024-09-19,P1138,Home,Supplier B,515.51,1,West,Bangalore,Ads,Yes,2024-09-30,No Longer Needed
+ORD100111,2024-08-14,2024-08-21,P1080,Electronics,Supplier A,858.47,3,West,Chennai,Email,No,,
+ORD100112,2024-08-23,2024-08-26,P1135,Fashion,Supplier A,1332.32,3,South,Hyderabad,Email,Yes,2024-08-28,No Longer Needed
+ORD100113,2024-12-26,2024-12-31,P1162,Beauty,Supplier C,839.52,2,North,Hyderabad,Organic,Yes,2025-01-08,Not as Described
+ORD100114,2024-01-13,2024-01-16,P1162,Fashion,Supplier B,1084.01,1,South,Chennai,Organic,Yes,2024-01-21,Late Delivery
+ORD100115,2024-07-28,2024-08-06,P1032,Fashion,Supplier D,1209.92,4,South,Bangalore,Email,No,,
+ORD100116,2024-08-16,2024-08-18,P1122,Electronics,Supplier B,1483.21,1,East,Mumbai,Email,Yes,2024-08-26,Size Issue
+ORD100117,2024-04-09,2024-04-17,P1004,Home,Supplier D,908.76,3,West,Kolkata,Ads,Yes,2024-04-25,No Longer Needed
+ORD100118,2024-01-31,2024-02-04,P1040,Sports,Supplier D,1212.21,3,North,Kolkata,Email,No,,
+ORD100119,2024-01-16,2024-01-20,P1027,Electronics,Supplier A,1444.35,1,East,Mumbai,Organic,No,,
+ORD100120,2024-05-16,2024-05-24,P1134,Sports,Supplier C,1417.17,1,West,Mumbai,Ads,No,,
+ORD100121,2024-11-24,2024-11-29,P1071,Fashion,Supplier A,220.21,4,South,Bangalore,Social Media,No,,
+ORD100122,2024-06-14,2024-06-23,P1011,Sports,Supplier A,615.52,4,North,Chennai,Organic,Yes,2024-06-29,Damaged
+ORD100123,2024-11-05,2024-11-12,P1161,Home,Supplier A,492.75,1,West,Mumbai,Organic,No,,
+ORD100124,2024-04-09,2024-04-14,P1032,Electronics,Supplier D,139.52,1,South,Chennai,Ads,No,,
+ORD100125,2024-04-18,2024-04-25,P1047,Home,Supplier A,953.53,1,East,Delhi,Social Media,No,,
+ORD100126,2024-12-08,2024-12-15,P1150,Home,Supplier D,1106.5,1,North,Kolkata,Organic,No,,
+ORD100127,2024-06-21,2024-06-25,P1061,Electronics,Supplier C,1273.71,2,West,Bangalore,Email,No,,
+ORD100128,2024-08-24,2024-08-29,P1036,Home,Supplier D,192.94,1,East,Kolkata,Organic,No,,
+ORD100129,2024-06-10,2024-06-19,P1098,Beauty,Supplier D,1315.9,4,South,Bangalore,Ads,No,,
+ORD100130,2024-08-03,2024-08-06,P1171,Beauty,Supplier B,967.96,3,South,Delhi,Ads,Yes,2024-08-08,No Longer Needed
+ORD100131,2024-09-20,2024-09-27,P1103,Beauty,Supplier A,1058.88,2,West,Kolkata,Ads,No,,
+ORD100132,2024-09-19,2024-09-25,P1034,Sports,Supplier A,1366.83,1,South,Delhi,Organic,No,,
+ORD100133,2024-10-18,2024-10-24,P1192,Home,Supplier A,940.89,3,North,Bangalore,Social Media,No,,
+ORD100134,2024-09-30,2024-10-03,P1100,Electronics,Supplier A,510.44,2,West,Mumbai,Email,No,,
+ORD100135,2024-01-03,2024-01-09,P1174,Electronics,Supplier B,1239.41,3,East,Kolkata,Ads,No,,
+ORD100136,2024-01-28,2024-01-30,P1130,Sports,Supplier B,550.96,1,West,Delhi,Social Media,No,,
+ORD100137,2024-11-21,2024-11-28,P1000,Electronics,Supplier B,61.0,1,West,Hyderabad,Email,No,,
+ORD100138,2024-05-28,2024-05-31,P1004,Beauty,Supplier B,1247.68,4,East,Kolkata,Ads,No,,
+ORD100139,2024-01-28,2024-02-02,P1141,Home,Supplier A,524.34,1,South,Kolkata,Email,No,,
+ORD100140,2024-11-05,2024-11-12,P1102,Electronics,Supplier D,1163.01,1,East,Kolkata,Email,No,,
+ORD100141,2024-03-05,2024-03-08,P1026,Electronics,Supplier C,550.51,2,North,Chennai,Social Media,No,,
+ORD100142,2024-12-21,2024-12-25,P1136,Fashion,Supplier B,1292.99,4,South,Delhi,Email,No,,
+ORD100143,2024-01-21,2024-01-30,P1014,Fashion,Supplier D,337.07,2,West,Delhi,Ads,No,,
+ORD100144,2024-09-08,2024-09-13,P1089,Fashion,Supplier B,1462.08,3,South,Kolkata,Social Media,No,,
+ORD100145,2024-08-22,2024-08-31,P1041,Home,Supplier A,1171.84,1,South,Mumbai,Organic,Yes,2024-09-08,Not as Described
+ORD100146,2024-08-14,2024-08-18,P1123,Beauty,Supplier A,180.21,3,North,Kolkata,Organic,No,,
+ORD100147,2024-01-13,2024-01-20,P1178,Beauty,Supplier D,853.01,2,South,Chennai,Social Media,No,,
+ORD100148,2024-11-08,2024-11-13,P1062,Beauty,Supplier D,1478.2,1,South,Bangalore,Organic,No,,
+ORD100149,2024-02-18,2024-02-27,P1095,Home,Supplier D,711.89,1,South,Chennai,Email,No,,
+ORD100150,2024-04-27,2024-05-03,P1051,Home,Supplier A,281.34,2,West,Mumbai,Ads,No,,
+ORD100151,2024-02-23,2024-03-03,P1095,Fashion,Supplier A,732.32,2,South,Kolkata,Email,No,,
+ORD100152,2024-05-17,2024-05-20,P1131,Electronics,Supplier C,773.56,2,East,Delhi,Social Media,No,,
+ORD100153,2024-02-22,2024-02-29,P1150,Sports,Supplier D,1115.11,2,South,Hyderabad,Ads,No,,
+ORD100154,2024-02-13,2024-02-15,P1142,Sports,Supplier C,1051.28,2,North,Kolkata,Social Media,No,,
+ORD100155,2024-10-29,2024-11-07,P1170,Electronics,Supplier B,609.8,1,South,Mumbai,Social Media,Yes,2024-11-18,Late Delivery
+ORD100156,2024-02-22,2024-02-27,P1028,Fashion,Supplier C,334.85,2,South,Delhi,Social Media,Yes,2024-03-04,No Longer Needed
+ORD100157,2024-03-14,2024-03-19,P1035,Electronics,Supplier B,971.13,1,West,Chennai,Email,No,,
+ORD100158,2024-02-15,2024-02-23,P1012,Electronics,Supplier B,638.34,1,East,Bangalore,Ads,No,,
+ORD100159,2024-01-13,2024-01-22,P1159,Sports,Supplier C,207.09,2,South,Bangalore,Ads,No,,
+ORD100160,2024-06-13,2024-06-20,P1070,Fashion,Supplier D,1351.85,2,East,Kolkata,Ads,Yes,2024-06-26,Not as Described
+ORD100161,2024-04-11,2024-04-18,P1186,Home,Supplier B,1039.92,4,North,Chennai,Email,No,,
+ORD100162,2024-10-06,2024-10-10,P1085,Sports,Supplier D,1027.94,1,West,Hyderabad,Organic,No,,
+ORD100163,2024-09-14,2024-09-22,P1027,Home,Supplier A,1235.65,2,East,Hyderabad,Email,No,,
+ORD100164,2024-12-02,2024-12-11,P1065,Fashion,Supplier B,799.2,2,West,Mumbai,Email,Yes,2024-12-19,Wrong Item
+ORD100165,2024-12-21,2024-12-27,P1169,Electronics,Supplier A,1224.43,2,South,Bangalore,Social Media,No,,
+ORD100166,2024-05-17,2024-05-21,P1044,Beauty,Supplier C,752.16,4,North,Chennai,Ads,No,,
+ORD100167,2024-06-11,2024-06-19,P1061,Beauty,Supplier D,110.09,4,West,Kolkata,Ads,No,,
+ORD100168,2024-04-20,2024-04-29,P1184,Fashion,Supplier C,613.82,3,South,Delhi,Organic,No,,
+ORD100169,2024-04-11,2024-04-20,P1133,Beauty,Supplier B,751.22,1,East,Kolkata,Organic,No,,
+ORD100170,2024-01-17,2024-01-21,P1027,Home,Supplier A,1083.1,3,North,Kolkata,Social Media,No,,
+ORD100171,2024-09-24,2024-09-30,P1027,Beauty,Supplier B,168.8,2,North,Chennai,Ads,No,,
+ORD100172,2024-06-30,2024-07-08,P1107,Fashion,Supplier C,218.63,4,East,Bangalore,Organic,Yes,2024-07-09,Late Delivery
+ORD100173,2024-01-24,2024-02-02,P1043,Fashion,Supplier D,402.89,4,East,Chennai,Organic,No,,
+ORD100174,2024-01-29,2024-02-07,P1083,Home,Supplier D,407.08,3,North,Delhi,Ads,No,,
+ORD100175,2024-06-19,2024-06-27,P1029,Beauty,Supplier B,1100.96,4,West,Chennai,Email,No,,
+ORD100176,2024-08-15,2024-08-17,P1189,Beauty,Supplier B,383.59,2,North,Mumbai,Organic,No,,
+ORD100177,2024-07-06,2024-07-10,P1074,Electronics,Supplier A,953.32,4,East,Kolkata,Ads,No,,
+ORD100178,2024-12-11,2024-12-15,P1127,Sports,Supplier C,746.47,3,West,Bangalore,Organic,No,,
+ORD100179,2024-08-17,2024-08-22,P1091,Fashion,Supplier B,864.21,2,South,Hyderabad,Social Media,No,,
+ORD100180,2024-11-16,2024-11-22,P1189,Electronics,Supplier A,1258.78,3,North,Delhi,Organic,No,,
+ORD100181,2024-12-05,2024-12-08,P1128,Fashion,Supplier B,612.53,4,East,Hyderabad,Ads,No,,
+ORD100182,2024-04-28,2024-04-30,P1120,Electronics,Supplier D,1158.66,3,South,Kolkata,Organic,No,,
+ORD100183,2024-06-04,2024-06-12,P1026,Sports,Supplier A,638.83,3,North,Chennai,Social Media,No,,
+ORD100184,2024-09-28,2024-10-06,P1189,Electronics,Supplier A,537.27,1,North,Hyderabad,Social Media,Yes,2024-10-08,Not as Described
+ORD100185,2024-06-23,2024-07-01,P1120,Fashion,Supplier B,1438.35,4,West,Mumbai,Organic,No,,
+ORD100186,2024-04-13,2024-04-15,P1115,Beauty,Supplier C,284.71,4,East,Chennai,Organic,No,,
+ORD100187,2024-04-01,2024-04-10,P1002,Fashion,Supplier D,144.6,3,South,Kolkata,Social Media,Yes,2024-04-22,No Longer Needed
+ORD100188,2024-07-04,2024-07-12,P1102,Home,Supplier C,1158.77,1,North,Hyderabad,Social Media,No,,
+ORD100189,2024-10-09,2024-10-17,P1197,Home,Supplier A,111.69,4,West,Delhi,Email,No,,
+ORD100190,2024-06-29,2024-07-05,P1199,Home,Supplier C,1257.25,2,South,Hyderabad,Email,Yes,2024-07-17,Wrong Item
+ORD100191,2024-06-18,2024-06-25,P1154,Home,Supplier A,661.42,3,South,Hyderabad,Social Media,No,,
+ORD100192,2024-07-05,2024-07-12,P1136,Sports,Supplier C,1374.12,4,North,Bangalore,Organic,No,,
+ORD100193,2024-06-23,2024-06-28,P1061,Beauty,Supplier B,1085.08,2,South,Hyderabad,Ads,No,,
+ORD100194,2024-08-09,2024-08-14,P1164,Beauty,Supplier C,919.5,4,North,Kolkata,Organic,No,,
+ORD100195,2024-08-20,2024-08-28,P1050,Fashion,Supplier A,1424.47,2,West,Delhi,Organic,Yes,2024-09-06,Not as Described
+ORD100196,2024-06-10,2024-06-16,P1171,Electronics,Supplier D,601.01,3,West,Kolkata,Email,Yes,2024-06-27,Not as Described
+ORD100197,2024-05-13,2024-05-21,P1151,Fashion,Supplier D,1431.59,4,South,Mumbai,Email,No,,
+ORD100198,2024-08-11,2024-08-16,P1058,Fashion,Supplier D,211.15,4,North,Chennai,Email,No,,
+ORD100199,2024-06-01,2024-06-03,P1117,Fashion,Supplier A,730.79,1,East,Hyderabad,Social Media,No,,
+ORD100200,2024-02-02,2024-02-04,P1159,Fashion,Supplier C,412.17,3,West,Bangalore,Social Media,Yes,2024-02-16,No Longer Needed
+ORD100201,2024-02-24,2024-03-04,P1095,Beauty,Supplier D,814.37,2,North,Delhi,Organic,No,,
+ORD100202,2024-01-07,2024-01-10,P1179,Electronics,Supplier D,251.4,4,North,Bangalore,Organic,No,,
+ORD100203,2024-08-31,2024-09-07,P1112,Fashion,Supplier D,1263.88,4,North,Bangalore,Ads,No,,
+ORD100204,2024-11-08,2024-11-14,P1061,Beauty,Supplier B,1271.15,2,South,Bangalore,Organic,No,,
+ORD100205,2024-05-05,2024-05-09,P1185,Fashion,Supplier A,1433.3,3,East,Hyderabad,Organic,Yes,2024-05-17,Late Delivery
+ORD100206,2024-01-12,2024-01-19,P1051,Home,Supplier A,240.46,1,South,Delhi,Email,No,,
+ORD100207,2024-01-16,2024-01-20,P1011,Fashion,Supplier A,938.77,1,West,Delhi,Email,No,,
+ORD100208,2024-07-26,2024-07-29,P1038,Fashion,Supplier A,716.61,4,South,Bangalore,Email,No,,
+ORD100209,2024-02-12,2024-02-15,P1129,Sports,Supplier A,523.13,2,North,Chennai,Email,No,,
+ORD100210,2024-05-14,2024-05-22,P1130,Home,Supplier B,533.79,4,South,Hyderabad,Email,No,,
+ORD100211,2024-08-15,2024-08-20,P1112,Electronics,Supplier C,625.06,2,North,Hyderabad,Ads,No,,
+ORD100212,2024-04-20,2024-04-23,P1100,Fashion,Supplier B,1060.34,1,East,Kolkata,Ads,No,,
+ORD100213,2024-11-02,2024-11-05,P1112,Electronics,Supplier D,901.45,3,South,Hyderabad,Ads,No,,
+ORD100214,2024-06-08,2024-06-12,P1183,Home,Supplier B,694.93,2,South,Bangalore,Email,No,,
+ORD100215,2024-11-26,2024-12-01,P1080,Fashion,Supplier A,123.14,1,South,Mumbai,Social Media,No,,
+ORD100216,2024-09-20,2024-09-23,P1186,Sports,Supplier B,125.87,4,North,Bangalore,Email,No,,
+ORD100217,2024-08-12,2024-08-19,P1112,Beauty,Supplier A,13.49,2,North,Delhi,Email,No,,
+ORD100218,2024-08-04,2024-08-13,P1001,Sports,Supplier B,1451.87,3,South,Hyderabad,Ads,No,,
+ORD100219,2024-02-14,2024-02-17,P1129,Sports,Supplier A,17.83,4,South,Hyderabad,Email,No,,
+ORD100220,2024-08-01,2024-08-10,P1053,Beauty,Supplier D,163.61,4,East,Kolkata,Ads,Yes,2024-08-22,Wrong Item
+ORD100221,2024-02-28,2024-03-04,P1086,Beauty,Supplier A,478.75,1,East,Mumbai,Email,No,,
+ORD100222,2024-05-11,2024-05-19,P1128,Beauty,Supplier B,1213.07,2,West,Hyderabad,Organic,No,,
+ORD100223,2024-04-13,2024-04-19,P1146,Fashion,Supplier D,1443.53,4,East,Kolkata,Social Media,No,,
+ORD100224,2024-07-13,2024-07-18,P1125,Electronics,Supplier B,1187.12,3,East,Kolkata,Social Media,No,,
+ORD100225,2024-06-05,2024-06-09,P1129,Electronics,Supplier D,1038.93,2,East,Mumbai,Ads,No,,
+ORD100226,2024-04-07,2024-04-13,P1052,Beauty,Supplier C,786.74,3,North,Bangalore,Organic,No,,
+ORD100227,2024-08-13,2024-08-20,P1171,Sports,Supplier C,139.19,4,East,Bangalore,Social Media,No,,
+ORD100228,2024-07-23,2024-07-25,P1159,Home,Supplier C,1437.67,3,East,Bangalore,Ads,No,,
+ORD100229,2024-03-19,2024-03-28,P1197,Beauty,Supplier B,1140.0,1,South,Chennai,Email,No,,
+ORD100230,2024-05-03,2024-05-12,P1159,Sports,Supplier B,962.03,3,North,Bangalore,Email,No,,
+ORD100231,2024-08-05,2024-08-14,P1067,Sports,Supplier D,1140.96,2,West,Mumbai,Organic,No,,
+ORD100232,2024-01-04,2024-01-09,P1182,Fashion,Supplier D,1088.91,3,West,Chennai,Social Media,No,,
+ORD100233,2024-03-30,2024-04-08,P1183,Fashion,Supplier D,959.48,3,East,Bangalore,Email,No,,
+ORD100234,2024-04-13,2024-04-21,P1122,Electronics,Supplier D,1471.06,1,West,Chennai,Ads,Yes,2024-04-28,Damaged
+ORD100235,2024-04-28,2024-05-07,P1144,Electronics,Supplier A,1356.01,3,West,Mumbai,Email,No,,
+ORD100236,2024-05-12,2024-05-16,P1037,Home,Supplier C,973.53,3,West,Bangalore,Email,No,,
+ORD100237,2024-11-07,2024-11-14,P1023,Home,Supplier A,1042.83,4,East,Delhi,Social Media,No,,
+ORD100238,2024-04-05,2024-04-14,P1068,Home,Supplier A,86.88,4,West,Hyderabad,Social Media,No,,
+ORD100239,2024-11-26,2024-12-05,P1115,Home,Supplier A,1008.18,2,East,Mumbai,Ads,No,,
+ORD100240,2024-05-22,2024-05-28,P1097,Sports,Supplier A,75.81,4,South,Kolkata,Organic,No,,
+ORD100241,2024-10-14,2024-10-21,P1197,Sports,Supplier C,886.51,4,South,Kolkata,Organic,No,,
+ORD100242,2024-01-28,2024-02-06,P1138,Electronics,Supplier A,1499.04,4,West,Mumbai,Email,Yes,2024-02-13,Size Issue
+ORD100243,2024-10-04,2024-10-09,P1143,Fashion,Supplier D,838.15,4,South,Kolkata,Ads,Yes,2024-10-14,Late Delivery
+ORD100244,2024-08-20,2024-08-23,P1096,Fashion,Supplier B,715.08,1,East,Mumbai,Organic,No,,
+ORD100245,2024-01-17,2024-01-25,P1123,Beauty,Supplier D,476.15,4,South,Delhi,Organic,Yes,2024-01-27,Wrong Item
+ORD100246,2024-02-28,2024-03-04,P1186,Sports,Supplier B,189.58,1,West,Mumbai,Email,No,,
+ORD100247,2024-03-30,2024-04-01,P1069,Home,Supplier D,1099.23,1,East,Bangalore,Ads,No,,
+ORD100248,2024-07-17,2024-07-22,P1092,Home,Supplier D,296.97,4,North,Bangalore,Organic,Yes,2024-08-02,Not as Described
+ORD100249,2024-12-27,2025-01-02,P1002,Beauty,Supplier B,181.77,3,East,Chennai,Social Media,No,,
+ORD100250,2024-01-26,2024-02-01,P1147,Fashion,Supplier C,638.43,1,South,Kolkata,Social Media,No,,
+ORD100251,2024-01-25,2024-02-03,P1186,Home,Supplier A,1195.06,3,North,Hyderabad,Email,Yes,2024-02-09,Wrong Item
+ORD100252,2024-10-27,2024-11-01,P1163,Fashion,Supplier D,1120.15,3,East,Kolkata,Email,No,,
+ORD100253,2024-12-04,2024-12-10,P1146,Beauty,Supplier C,91.78,4,North,Mumbai,Email,No,,
+ORD100254,2024-09-23,2024-09-26,P1089,Fashion,Supplier A,688.16,2,North,Hyderabad,Email,No,,
+ORD100255,2024-06-29,2024-07-06,P1194,Fashion,Supplier C,788.43,4,North,Hyderabad,Organic,No,,
+ORD100256,2024-12-25,2024-12-30,P1146,Fashion,Supplier C,970.37,2,East,Kolkata,Ads,No,,
+ORD100257,2024-03-08,2024-03-16,P1147,Home,Supplier A,978.75,2,South,Hyderabad,Email,No,,
+ORD100258,2024-12-16,2024-12-19,P1095,Electronics,Supplier D,553.4,4,East,Hyderabad,Email,Yes,2024-12-29,Size Issue
+ORD100259,2024-11-16,2024-11-25,P1198,Sports,Supplier C,845.41,4,South,Bangalore,Organic,No,,
+ORD100260,2024-02-18,2024-02-25,P1051,Fashion,Supplier D,726.78,2,East,Delhi,Email,No,,
+ORD100261,2024-06-23,2024-07-01,P1160,Fashion,Supplier D,1328.65,4,East,Mumbai,Email,Yes,2024-07-04,No Longer Needed
+ORD100262,2024-02-21,2024-03-01,P1167,Fashion,Supplier D,800.1,2,East,Kolkata,Ads,No,,
+ORD100263,2024-04-11,2024-04-19,P1127,Electronics,Supplier A,667.14,3,South,Bangalore,Social Media,No,,
+ORD100264,2024-08-03,2024-08-12,P1038,Beauty,Supplier B,612.68,4,East,Chennai,Email,No,,
+ORD100265,2024-07-06,2024-07-14,P1081,Home,Supplier D,862.92,3,North,Hyderabad,Organic,No,,
+ORD100266,2024-02-26,2024-03-04,P1103,Electronics,Supplier B,1207.93,1,East,Hyderabad,Ads,No,,
+ORD100267,2024-02-16,2024-02-19,P1128,Fashion,Supplier B,812.22,3,North,Kolkata,Organic,No,,
+ORD100268,2024-06-07,2024-06-15,P1010,Electronics,Supplier C,995.87,3,West,Delhi,Ads,No,,
+ORD100269,2024-06-22,2024-06-30,P1184,Electronics,Supplier D,1109.41,2,West,Delhi,Ads,No,,
+ORD100270,2024-08-29,2024-09-02,P1177,Electronics,Supplier D,785.05,3,South,Kolkata,Email,No,,
+ORD100271,2024-10-08,2024-10-13,P1150,Beauty,Supplier D,645.96,4,South,Kolkata,Email,No,,
+ORD100272,2024-08-28,2024-09-04,P1158,Sports,Supplier B,1316.23,2,West,Bangalore,Email,No,,
+ORD100273,2024-01-05,2024-01-14,P1041,Home,Supplier A,632.08,1,East,Kolkata,Social Media,No,,
+ORD100274,2024-03-24,2024-03-31,P1098,Beauty,Supplier B,698.29,4,East,Chennai,Social Media,No,,
+ORD100275,2024-11-03,2024-11-09,P1006,Beauty,Supplier D,1485.61,1,East,Bangalore,Organic,No,,
+ORD100276,2024-12-26,2025-01-04,P1143,Sports,Supplier D,10.35,3,West,Hyderabad,Email,Yes,2025-01-08,Size Issue
+ORD100277,2024-09-04,2024-09-11,P1089,Beauty,Supplier D,286.35,4,North,Hyderabad,Social Media,No,,
+ORD100278,2024-02-23,2024-02-26,P1111,Electronics,Supplier B,582.11,4,South,Hyderabad,Email,No,,
+ORD100279,2024-06-09,2024-06-18,P1059,Electronics,Supplier D,1399.56,1,North,Hyderabad,Social Media,Yes,2024-07-01,Damaged
+ORD100280,2024-08-13,2024-08-22,P1112,Fashion,Supplier C,114.34,4,West,Mumbai,Social Media,No,,
+ORD100281,2024-01-15,2024-01-22,P1001,Beauty,Supplier D,24.13,4,North,Chennai,Ads,No,,
+ORD100282,2024-08-11,2024-08-20,P1128,Fashion,Supplier A,88.5,4,East,Bangalore,Email,No,,
+ORD100283,2024-03-01,2024-03-05,P1047,Home,Supplier C,141.93,3,East,Bangalore,Email,No,,
+ORD100284,2024-05-01,2024-05-06,P1139,Electronics,Supplier D,66.02,1,North,Hyderabad,Social Media,No,,
+ORD100285,2024-10-03,2024-10-12,P1196,Home,Supplier C,724.87,4,West,Delhi,Email,No,,
+ORD100286,2024-02-15,2024-02-20,P1036,Sports,Supplier D,875.33,2,North,Bangalore,Social Media,Yes,2024-03-01,Damaged
+ORD100287,2024-10-20,2024-10-27,P1159,Electronics,Supplier A,414.81,2,East,Chennai,Email,No,,
+ORD100288,2024-03-02,2024-03-10,P1008,Home,Supplier D,603.45,2,East,Kolkata,Ads,No,,
+ORD100289,2024-03-26,2024-03-28,P1098,Sports,Supplier C,146.63,2,West,Chennai,Email,No,,
+ORD100290,2024-07-28,2024-07-30,P1146,Home,Supplier A,511.19,3,North,Hyderabad,Ads,No,,
+ORD100291,2024-03-18,2024-03-26,P1047,Sports,Supplier B,788.55,4,East,Hyderabad,Organic,No,,
+ORD100292,2024-07-20,2024-07-28,P1130,Sports,Supplier A,1101.08,1,East,Mumbai,Email,No,,
+ORD100293,2024-10-28,2024-11-05,P1147,Electronics,Supplier A,14.99,4,North,Bangalore,Email,No,,
+ORD100294,2024-08-10,2024-08-13,P1151,Fashion,Supplier A,706.29,3,North,Bangalore,Email,Yes,2024-08-25,Size Issue
+ORD100295,2024-08-09,2024-08-11,P1053,Sports,Supplier C,452.53,2,South,Bangalore,Ads,No,,
+ORD100296,2024-01-03,2024-01-11,P1119,Sports,Supplier A,1280.7,3,West,Hyderabad,Email,No,,
+ORD100297,2024-01-06,2024-01-09,P1160,Electronics,Supplier D,1076.17,4,West,Bangalore,Email,No,,
+ORD100298,2024-04-02,2024-04-08,P1151,Fashion,Supplier A,887.77,1,North,Delhi,Social Media,No,,
+ORD100299,2024-01-08,2024-01-17,P1115,Beauty,Supplier A,423.13,3,West,Delhi,Organic,Yes,2024-01-28,Late Delivery
+ORD100300,2024-08-22,2024-08-25,P1074,Beauty,Supplier D,1366.41,1,East,Kolkata,Ads,Yes,2024-08-27,Late Delivery
+ORD100301,2024-04-17,2024-04-19,P1112,Fashion,Supplier D,77.2,3,North,Bangalore,Social Media,No,,
+ORD100302,2024-06-09,2024-06-16,P1199,Home,Supplier B,173.11,1,North,Mumbai,Ads,No,,
+ORD100303,2024-07-27,2024-08-02,P1163,Electronics,Supplier A,593.53,1,North,Kolkata,Social Media,No,,
+ORD100304,2024-08-27,2024-08-29,P1165,Fashion,Supplier C,195.41,2,South,Hyderabad,Organic,No,,
+ORD100305,2024-11-26,2024-12-05,P1103,Beauty,Supplier A,1435.06,1,West,Bangalore,Social Media,Yes,2024-12-19,Not as Described
+ORD100306,2024-11-28,2024-12-01,P1083,Sports,Supplier A,1199.0,2,South,Delhi,Ads,No,,
+ORD100307,2024-02-19,2024-02-23,P1111,Beauty,Supplier D,395.88,4,East,Mumbai,Email,No,,
+ORD100308,2024-01-11,2024-01-16,P1098,Sports,Supplier B,886.95,4,West,Kolkata,Email,No,,
+ORD100309,2024-12-16,2024-12-25,P1152,Electronics,Supplier A,1473.67,2,South,Mumbai,Organic,No,,
+ORD100310,2024-06-04,2024-06-06,P1092,Sports,Supplier C,1327.46,2,North,Bangalore,Ads,Yes,2024-06-08,Damaged
+ORD100311,2024-03-10,2024-03-18,P1145,Fashion,Supplier A,905.19,3,South,Chennai,Ads,Yes,2024-03-30,Not as Described
+ORD100312,2024-06-17,2024-06-20,P1127,Sports,Supplier C,1356.55,3,North,Mumbai,Ads,No,,
+ORD100313,2024-09-28,2024-10-06,P1109,Home,Supplier D,1483.89,3,South,Mumbai,Organic,No,,
+ORD100314,2024-03-08,2024-03-16,P1081,Fashion,Supplier B,1117.6,4,South,Hyderabad,Email,Yes,2024-03-24,Damaged
+ORD100315,2024-12-20,2024-12-28,P1193,Electronics,Supplier A,106.83,3,South,Delhi,Social Media,Yes,2025-01-05,Size Issue
+ORD100316,2024-09-08,2024-09-16,P1053,Fashion,Supplier B,608.35,1,North,Bangalore,Organic,Yes,2024-09-26,Late Delivery
+ORD100317,2024-02-17,2024-02-25,P1162,Home,Supplier A,1258.36,1,South,Mumbai,Social Media,No,,
+ORD100318,2024-07-02,2024-07-08,P1188,Electronics,Supplier C,353.55,3,West,Bangalore,Email,No,,
+ORD100319,2024-11-15,2024-11-17,P1168,Beauty,Supplier B,1247.66,1,West,Delhi,Organic,No,,
+ORD100320,2024-07-05,2024-07-14,P1160,Home,Supplier A,189.3,4,West,Hyderabad,Email,No,,
+ORD100321,2024-03-30,2024-04-01,P1067,Electronics,Supplier D,79.95,1,North,Bangalore,Social Media,No,,
+ORD100322,2024-11-27,2024-12-06,P1032,Sports,Supplier C,582.3,4,North,Delhi,Ads,Yes,2024-12-12,Late Delivery
+ORD100323,2024-05-18,2024-05-23,P1141,Fashion,Supplier B,64.73,2,West,Delhi,Ads,No,,
+ORD100324,2024-12-22,2024-12-25,P1020,Electronics,Supplier A,1436.33,2,West,Kolkata,Social Media,Yes,2025-01-07,Size Issue
+ORD100325,2024-03-29,2024-04-02,P1047,Fashion,Supplier B,1241.05,2,West,Hyderabad,Ads,No,,
+ORD100326,2024-09-30,2024-10-06,P1147,Sports,Supplier A,1203.15,2,East,Hyderabad,Social Media,No,,
+ORD100327,2024-01-19,2024-01-22,P1127,Electronics,Supplier C,948.37,1,West,Bangalore,Organic,No,,
+ORD100328,2024-11-06,2024-11-12,P1135,Beauty,Supplier D,332.32,3,South,Chennai,Organic,No,,
+ORD100329,2024-12-23,2025-01-01,P1134,Home,Supplier C,782.21,1,East,Kolkata,Organic,No,,
+ORD100330,2024-06-02,2024-06-04,P1194,Electronics,Supplier B,899.94,4,East,Hyderabad,Ads,No,,
+ORD100331,2024-09-16,2024-09-24,P1144,Sports,Supplier B,792.3,1,North,Delhi,Email,No,,
+ORD100332,2024-04-17,2024-04-22,P1127,Electronics,Supplier A,397.75,1,South,Hyderabad,Ads,No,,
+ORD100333,2024-10-11,2024-10-16,P1032,Fashion,Supplier C,777.72,4,North,Chennai,Ads,No,,
+ORD100334,2024-02-28,2024-03-06,P1175,Electronics,Supplier A,741.87,2,North,Mumbai,Email,No,,
+ORD100335,2024-05-04,2024-05-08,P1186,Beauty,Supplier C,1494.54,2,South,Mumbai,Email,No,,
+ORD100336,2024-12-19,2024-12-24,P1114,Electronics,Supplier B,1347.18,2,North,Hyderabad,Email,No,,
+ORD100337,2024-09-29,2024-10-07,P1118,Home,Supplier A,700.44,3,South,Hyderabad,Email,No,,
+ORD100338,2024-04-16,2024-04-18,P1021,Electronics,Supplier A,938.18,4,South,Kolkata,Ads,No,,
+ORD100339,2024-10-25,2024-10-29,P1157,Fashion,Supplier C,1124.33,4,North,Hyderabad,Social Media,No,,
+ORD100340,2024-09-01,2024-09-10,P1037,Electronics,Supplier D,61.95,1,West,Chennai,Organic,No,,
+ORD100341,2024-12-01,2024-12-04,P1108,Beauty,Supplier C,1343.43,3,North,Hyderabad,Social Media,Yes,2024-12-09,Not as Described
+ORD100342,2024-09-03,2024-09-12,P1050,Sports,Supplier D,1291.59,2,East,Bangalore,Ads,No,,
+ORD100343,2024-01-08,2024-01-16,P1181,Electronics,Supplier C,691.57,3,North,Chennai,Email,No,,
+ORD100344,2024-05-20,2024-05-28,P1007,Electronics,Supplier B,592.84,4,South,Kolkata,Organic,No,,
+ORD100345,2024-12-27,2025-01-01,P1026,Home,Supplier A,416.71,4,East,Bangalore,Organic,No,,
+ORD100346,2024-01-08,2024-01-12,P1026,Beauty,Supplier C,720.25,1,South,Bangalore,Social Media,No,,
+ORD100347,2024-12-17,2024-12-19,P1020,Sports,Supplier B,76.12,1,West,Mumbai,Ads,Yes,2024-12-27,Not as Described
+ORD100348,2024-04-03,2024-04-12,P1029,Fashion,Supplier C,1279.77,4,West,Chennai,Ads,No,,
+ORD100349,2024-11-16,2024-11-23,P1096,Electronics,Supplier A,62.78,2,East,Bangalore,Ads,Yes,2024-11-27,Wrong Item
+ORD100350,2024-02-08,2024-02-17,P1027,Sports,Supplier C,500.29,2,West,Kolkata,Organic,No,,
+ORD100351,2024-03-21,2024-03-27,P1110,Fashion,Supplier D,1398.07,3,West,Mumbai,Social Media,No,,
+ORD100352,2024-07-05,2024-07-11,P1191,Beauty,Supplier A,1105.47,4,North,Bangalore,Organic,No,,
+ORD100353,2024-03-24,2024-03-26,P1196,Beauty,Supplier D,429.27,4,North,Chennai,Organic,Yes,2024-04-06,Damaged
+ORD100354,2024-03-28,2024-03-30,P1060,Sports,Supplier B,386.45,2,West,Mumbai,Email,No,,
+ORD100355,2024-08-29,2024-09-04,P1047,Fashion,Supplier B,17.57,2,West,Chennai,Social Media,Yes,2024-09-08,Not as Described
+ORD100356,2024-12-07,2024-12-14,P1146,Beauty,Supplier C,1046.61,4,North,Chennai,Email,No,,
+ORD100357,2024-04-02,2024-04-06,P1003,Sports,Supplier D,82.69,1,West,Chennai,Ads,No,,
+ORD100358,2024-03-26,2024-04-01,P1034,Beauty,Supplier D,803.58,4,West,Mumbai,Organic,No,,
+ORD100359,2024-02-13,2024-02-15,P1191,Beauty,Supplier A,1443.56,4,South,Bangalore,Social Media,Yes,2024-02-20,Size Issue
+ORD100360,2024-05-16,2024-05-21,P1048,Beauty,Supplier D,173.11,2,West,Hyderabad,Ads,No,,
+ORD100361,2024-03-14,2024-03-17,P1016,Home,Supplier D,1342.78,2,East,Delhi,Social Media,No,,
+ORD100362,2024-02-05,2024-02-12,P1171,Fashion,Supplier A,1487.3,1,South,Bangalore,Organic,Yes,2024-02-13,Not as Described
+ORD100363,2024-04-10,2024-04-18,P1157,Sports,Supplier A,101.66,1,East,Mumbai,Social Media,No,,
+ORD100364,2024-06-04,2024-06-11,P1045,Sports,Supplier D,1325.53,3,West,Delhi,Ads,No,,
+ORD100365,2024-09-11,2024-09-16,P1116,Fashion,Supplier C,778.96,4,North,Delhi,Email,Yes,2024-09-17,Late Delivery
+ORD100366,2024-06-19,2024-06-24,P1005,Fashion,Supplier A,1360.71,2,South,Delhi,Organic,Yes,2024-06-26,Damaged
+ORD100367,2024-08-03,2024-08-11,P1098,Fashion,Supplier A,861.27,1,North,Hyderabad,Email,No,,
+ORD100368,2024-06-18,2024-06-27,P1123,Fashion,Supplier D,996.55,3,South,Kolkata,Organic,No,,
+ORD100369,2024-09-08,2024-09-10,P1036,Electronics,Supplier D,820.23,3,North,Mumbai,Ads,Yes,2024-09-24,No Longer Needed
+ORD100370,2024-12-25,2024-12-31,P1023,Sports,Supplier A,1298.09,2,South,Hyderabad,Organic,No,,
+ORD100371,2024-11-17,2024-11-26,P1092,Electronics,Supplier D,1103.53,2,South,Hyderabad,Email,No,,
+ORD100372,2024-02-24,2024-02-28,P1045,Beauty,Supplier A,786.68,3,East,Kolkata,Organic,No,,
+ORD100373,2024-03-31,2024-04-07,P1180,Beauty,Supplier C,1303.56,1,North,Delhi,Ads,No,,
+ORD100374,2024-10-04,2024-10-12,P1094,Sports,Supplier C,375.48,3,East,Kolkata,Organic,No,,
+ORD100375,2024-04-10,2024-04-17,P1098,Beauty,Supplier A,244.44,4,East,Kolkata,Email,No,,
+ORD100376,2024-06-03,2024-06-12,P1187,Fashion,Supplier A,249.0,4,North,Hyderabad,Ads,No,,
+ORD100377,2024-12-14,2024-12-19,P1115,Electronics,Supplier B,507.67,2,South,Mumbai,Email,No,,
+ORD100378,2024-12-29,2025-01-04,P1190,Fashion,Supplier B,365.65,1,East,Chennai,Organic,No,,
+ORD100379,2024-05-20,2024-05-27,P1159,Beauty,Supplier D,1395.83,1,North,Kolkata,Social Media,Yes,2024-06-04,Wrong Item
+ORD100380,2024-06-21,2024-06-25,P1160,Electronics,Supplier D,167.69,4,South,Kolkata,Email,No,,
+ORD100381,2024-01-10,2024-01-15,P1066,Fashion,Supplier A,1051.5,3,East,Delhi,Organic,No,,
+ORD100382,2024-08-15,2024-08-19,P1127,Sports,Supplier A,291.94,2,East,Delhi,Social Media,No,,
+ORD100383,2024-09-21,2024-09-27,P1017,Fashion,Supplier B,1323.64,3,East,Hyderabad,Social Media,No,,
+ORD100384,2024-09-04,2024-09-11,P1024,Beauty,Supplier B,1442.36,3,South,Delhi,Ads,Yes,2024-09-18,Damaged
+ORD100385,2024-09-03,2024-09-06,P1053,Electronics,Supplier A,703.55,3,East,Bangalore,Social Media,No,,
+ORD100386,2024-06-03,2024-06-12,P1057,Sports,Supplier C,1319.82,1,South,Kolkata,Email,No,,
+ORD100387,2024-02-03,2024-02-10,P1066,Electronics,Supplier C,17.67,4,West,Delhi,Email,No,,
+ORD100388,2024-05-08,2024-05-17,P1103,Sports,Supplier D,1231.72,1,East,Mumbai,Social Media,No,,
+ORD100389,2024-06-08,2024-06-14,P1173,Electronics,Supplier A,350.65,4,West,Bangalore,Organic,No,,
+ORD100390,2024-03-29,2024-04-05,P1023,Beauty,Supplier A,1363.96,2,North,Hyderabad,Email,No,,
+ORD100391,2024-04-02,2024-04-11,P1113,Sports,Supplier D,11.67,2,East,Chennai,Email,No,,
+ORD100392,2024-11-22,2024-11-30,P1031,Home,Supplier B,838.71,3,North,Kolkata,Ads,Yes,2024-12-10,Late Delivery
+ORD100393,2024-08-28,2024-09-06,P1174,Electronics,Supplier B,1137.39,4,North,Kolkata,Organic,No,,
+ORD100394,2024-11-18,2024-11-25,P1085,Electronics,Supplier C,395.45,4,North,Mumbai,Social Media,No,,
+ORD100395,2024-04-26,2024-04-28,P1150,Fashion,Supplier A,297.77,4,West,Chennai,Organic,No,,
+ORD100396,2024-04-03,2024-04-10,P1193,Sports,Supplier B,135.31,3,South,Chennai,Ads,No,,
+ORD100397,2024-06-11,2024-06-18,P1126,Home,Supplier C,496.39,3,West,Hyderabad,Ads,No,,
+ORD100398,2024-04-08,2024-04-17,P1154,Beauty,Supplier C,844.17,2,West,Hyderabad,Organic,No,,
+ORD100399,2024-04-22,2024-04-26,P1129,Fashion,Supplier C,182.61,1,North,Bangalore,Ads,No,,
+ORD100400,2024-12-24,2024-12-27,P1016,Home,Supplier B,571.28,4,East,Kolkata,Ads,No,,
+ORD100401,2024-03-31,2024-04-04,P1103,Sports,Supplier B,23.52,4,South,Delhi,Ads,No,,
+ORD100402,2024-12-11,2024-12-20,P1160,Home,Supplier A,1229.83,1,North,Hyderabad,Organic,Yes,2024-12-29,Late Delivery
+ORD100403,2024-07-24,2024-07-28,P1136,Electronics,Supplier A,201.39,4,South,Mumbai,Ads,No,,
+ORD100404,2024-01-17,2024-01-22,P1042,Electronics,Supplier C,432.18,3,West,Mumbai,Social Media,No,,
+ORD100405,2024-09-30,2024-10-02,P1175,Fashion,Supplier C,37.46,3,South,Mumbai,Social Media,Yes,2024-10-07,Late Delivery
+ORD100406,2024-06-21,2024-06-25,P1038,Sports,Supplier B,654.04,4,South,Hyderabad,Email,Yes,2024-06-27,Late Delivery
+ORD100407,2024-04-25,2024-05-03,P1169,Sports,Supplier B,1261.78,3,East,Hyderabad,Social Media,No,,
+ORD100408,2024-12-14,2024-12-20,P1025,Home,Supplier A,594.31,3,North,Mumbai,Email,No,,
+ORD100409,2024-06-29,2024-07-07,P1098,Fashion,Supplier A,277.45,4,South,Hyderabad,Organic,No,,
+ORD100410,2024-03-31,2024-04-06,P1049,Sports,Supplier D,1133.01,2,South,Delhi,Ads,No,,
+ORD100411,2024-03-22,2024-03-29,P1152,Electronics,Supplier A,1185.32,1,West,Delhi,Social Media,No,,
+ORD100412,2024-11-19,2024-11-24,P1151,Home,Supplier B,268.89,3,West,Bangalore,Email,No,,
+ORD100413,2024-04-23,2024-04-25,P1012,Beauty,Supplier C,1158.57,2,South,Kolkata,Organic,Yes,2024-05-02,Size Issue
+ORD100414,2024-09-13,2024-09-21,P1059,Electronics,Supplier D,1421.47,3,North,Delhi,Email,No,,
+ORD100415,2024-02-27,2024-02-29,P1134,Fashion,Supplier A,257.9,3,South,Bangalore,Ads,No,,
+ORD100416,2024-06-02,2024-06-10,P1056,Sports,Supplier A,1158.77,1,South,Chennai,Social Media,No,,
+ORD100417,2024-12-30,2025-01-06,P1035,Electronics,Supplier B,1065.77,3,East,Kolkata,Organic,No,,
+ORD100418,2024-04-25,2024-05-01,P1172,Beauty,Supplier D,715.63,1,North,Delhi,Email,No,,
+ORD100419,2024-12-08,2024-12-11,P1019,Beauty,Supplier A,96.3,1,East,Chennai,Organic,Yes,2024-12-19,Wrong Item
+ORD100420,2024-09-22,2024-09-27,P1064,Fashion,Supplier C,121.29,1,North,Bangalore,Email,No,,
+ORD100421,2024-11-10,2024-11-18,P1007,Electronics,Supplier B,1280.1,2,North,Delhi,Email,No,,
+ORD100422,2024-07-21,2024-07-29,P1143,Home,Supplier D,1485.32,4,North,Delhi,Ads,No,,
+ORD100423,2024-02-10,2024-02-17,P1141,Electronics,Supplier A,1017.32,2,East,Hyderabad,Ads,Yes,2024-02-29,No Longer Needed
+ORD100424,2024-04-14,2024-04-19,P1114,Beauty,Supplier A,674.48,4,East,Chennai,Email,No,,
+ORD100425,2024-07-11,2024-07-17,P1142,Fashion,Supplier D,974.88,4,East,Delhi,Social Media,No,,
+ORD100426,2024-10-04,2024-10-10,P1091,Fashion,Supplier B,895.65,1,West,Mumbai,Organic,Yes,2024-10-17,Late Delivery
+ORD100427,2024-12-19,2024-12-27,P1097,Home,Supplier D,581.58,3,East,Hyderabad,Organic,No,,
+ORD100428,2024-08-24,2024-08-27,P1065,Fashion,Supplier D,107.78,1,West,Hyderabad,Ads,No,,
+ORD100429,2024-08-08,2024-08-11,P1031,Fashion,Supplier B,1234.05,3,West,Delhi,Social Media,No,,
+ORD100430,2024-03-08,2024-03-10,P1190,Fashion,Supplier A,564.03,4,West,Hyderabad,Email,No,,
+ORD100431,2024-07-15,2024-07-20,P1085,Fashion,Supplier C,1229.99,1,South,Kolkata,Ads,No,,
+ORD100432,2024-09-12,2024-09-17,P1050,Fashion,Supplier B,386.24,3,South,Chennai,Email,No,,
+ORD100433,2024-05-18,2024-05-24,P1152,Beauty,Supplier C,11.53,2,South,Kolkata,Email,No,,
+ORD100434,2024-11-07,2024-11-09,P1185,Electronics,Supplier A,246.82,3,West,Bangalore,Ads,No,,
+ORD100435,2024-05-28,2024-06-04,P1062,Sports,Supplier D,708.12,1,West,Kolkata,Social Media,No,,
+ORD100436,2024-04-08,2024-04-13,P1189,Fashion,Supplier C,1417.01,2,North,Mumbai,Organic,Yes,2024-04-27,Late Delivery
+ORD100437,2024-03-16,2024-03-18,P1124,Sports,Supplier A,162.27,3,West,Hyderabad,Ads,Yes,2024-03-25,Not as Described
+ORD100438,2024-10-08,2024-10-10,P1149,Sports,Supplier A,1282.77,3,South,Hyderabad,Social Media,No,,
+ORD100439,2024-04-18,2024-04-26,P1057,Beauty,Supplier D,795.27,3,West,Mumbai,Email,No,,
+ORD100440,2024-07-06,2024-07-12,P1057,Fashion,Supplier D,1240.62,3,West,Hyderabad,Ads,Yes,2024-07-24,Wrong Item
+ORD100441,2024-07-17,2024-07-19,P1085,Sports,Supplier A,454.58,3,North,Kolkata,Organic,No,,
+ORD100442,2024-10-29,2024-11-07,P1048,Fashion,Supplier A,1261.52,2,West,Bangalore,Organic,No,,
+ORD100443,2024-11-22,2024-11-25,P1179,Home,Supplier C,1161.51,4,East,Delhi,Email,No,,
+ORD100444,2024-06-02,2024-06-11,P1169,Home,Supplier A,352.78,2,North,Mumbai,Ads,No,,
+ORD100445,2024-02-09,2024-02-12,P1069,Home,Supplier A,205.69,2,West,Kolkata,Organic,No,,
+ORD100446,2024-05-12,2024-05-16,P1014,Sports,Supplier C,1303.4,2,West,Kolkata,Ads,No,,
+ORD100447,2024-05-11,2024-05-17,P1053,Home,Supplier B,1445.22,4,North,Kolkata,Organic,No,,
+ORD100448,2024-10-05,2024-10-13,P1187,Beauty,Supplier C,56.64,1,West,Delhi,Email,No,,
+ORD100449,2024-12-27,2025-01-03,P1100,Beauty,Supplier C,1099.59,4,South,Chennai,Email,No,,
+ORD100450,2024-03-24,2024-04-02,P1007,Sports,Supplier D,1365.19,2,East,Hyderabad,Ads,No,,
+ORD100451,2024-08-29,2024-09-07,P1052,Fashion,Supplier C,1287.47,3,East,Hyderabad,Social Media,No,,
+ORD100452,2024-04-25,2024-04-29,P1059,Electronics,Supplier A,1447.14,3,South,Bangalore,Social Media,No,,
+ORD100453,2024-04-18,2024-04-21,P1107,Fashion,Supplier A,1142.54,2,West,Chennai,Email,No,,
+ORD100454,2024-08-08,2024-08-16,P1004,Fashion,Supplier A,669.03,3,West,Hyderabad,Organic,Yes,2024-08-30,Damaged
+ORD100455,2024-02-10,2024-02-14,P1102,Fashion,Supplier B,474.81,2,East,Bangalore,Social Media,No,,
+ORD100456,2024-05-26,2024-06-01,P1195,Fashion,Supplier A,487.91,3,West,Bangalore,Email,Yes,2024-06-06,Wrong Item
+ORD100457,2024-04-21,2024-04-29,P1005,Electronics,Supplier B,1089.39,4,East,Kolkata,Organic,No,,
+ORD100458,2024-04-12,2024-04-18,P1108,Home,Supplier A,1121.3,1,East,Mumbai,Organic,No,,
+ORD100459,2024-02-15,2024-02-17,P1115,Fashion,Supplier C,308.54,1,South,Kolkata,Social Media,No,,
+ORD100460,2024-11-19,2024-11-24,P1093,Beauty,Supplier D,1303.5,4,East,Delhi,Email,No,,
+ORD100461,2024-09-27,2024-09-29,P1046,Sports,Supplier A,1075.24,4,West,Hyderabad,Organic,Yes,2024-10-01,Wrong Item
+ORD100462,2024-07-13,2024-07-19,P1098,Sports,Supplier B,848.5,2,West,Bangalore,Organic,No,,
+ORD100463,2024-10-06,2024-10-15,P1054,Beauty,Supplier B,712.58,2,North,Mumbai,Ads,No,,
+ORD100464,2024-10-09,2024-10-17,P1167,Fashion,Supplier D,819.42,2,West,Hyderabad,Ads,No,,
+ORD100465,2024-02-09,2024-02-12,P1051,Electronics,Supplier A,247.28,3,North,Bangalore,Social Media,No,,
+ORD100466,2024-07-07,2024-07-14,P1143,Home,Supplier C,313.51,2,East,Bangalore,Ads,No,,
+ORD100467,2024-06-12,2024-06-15,P1012,Sports,Supplier A,145.84,4,West,Kolkata,Email,Yes,2024-06-21,No Longer Needed
+ORD100468,2024-01-24,2024-02-01,P1113,Home,Supplier A,238.95,1,South,Mumbai,Social Media,No,,
+ORD100469,2024-01-24,2024-01-26,P1123,Electronics,Supplier D,686.0,3,South,Mumbai,Social Media,No,,
+ORD100470,2024-01-04,2024-01-11,P1105,Sports,Supplier A,800.23,2,South,Hyderabad,Ads,No,,
+ORD100471,2024-11-18,2024-11-26,P1157,Home,Supplier C,36.61,3,East,Bangalore,Organic,No,,
+ORD100472,2024-10-16,2024-10-22,P1146,Electronics,Supplier B,1197.23,3,East,Mumbai,Email,Yes,2024-10-26,Wrong Item
+ORD100473,2024-06-29,2024-07-08,P1144,Home,Supplier D,448.31,2,North,Mumbai,Email,No,,
+ORD100474,2024-09-04,2024-09-07,P1119,Fashion,Supplier C,1368.64,3,South,Hyderabad,Email,No,,
+ORD100475,2024-04-25,2024-05-01,P1062,Electronics,Supplier B,1451.59,1,North,Kolkata,Social Media,No,,
+ORD100476,2024-10-05,2024-10-12,P1018,Home,Supplier D,286.33,4,North,Chennai,Email,No,,
+ORD100477,2024-12-30,2025-01-06,P1091,Fashion,Supplier D,698.52,4,West,Delhi,Organic,No,,
+ORD100478,2024-03-09,2024-03-12,P1057,Fashion,Supplier B,11.84,1,West,Chennai,Organic,No,,
+ORD100479,2024-12-16,2024-12-22,P1182,Electronics,Supplier B,901.51,3,South,Mumbai,Ads,No,,
+ORD100480,2024-09-10,2024-09-14,P1089,Beauty,Supplier C,914.89,2,East,Bangalore,Email,No,,
+ORD100481,2024-06-29,2024-07-05,P1116,Sports,Supplier A,378.83,3,West,Delhi,Social Media,No,,
+ORD100482,2024-11-13,2024-11-20,P1061,Electronics,Supplier A,842.03,1,East,Delhi,Ads,No,,
+ORD100483,2024-06-17,2024-06-23,P1022,Fashion,Supplier A,346.05,3,North,Bangalore,Organic,No,,
+ORD100484,2024-11-08,2024-11-17,P1126,Fashion,Supplier A,249.63,4,North,Delhi,Email,No,,
+ORD100485,2024-09-05,2024-09-13,P1136,Electronics,Supplier A,980.76,3,North,Bangalore,Organic,Yes,2024-09-23,No Longer Needed
+ORD100486,2024-07-06,2024-07-08,P1139,Beauty,Supplier C,495.63,1,North,Delhi,Ads,No,,
+ORD100487,2024-02-23,2024-03-03,P1128,Sports,Supplier D,889.49,4,South,Hyderabad,Organic,Yes,2024-03-05,Late Delivery
+ORD100488,2024-11-21,2024-11-25,P1057,Home,Supplier C,655.54,3,North,Hyderabad,Email,No,,
+ORD100489,2024-12-22,2024-12-27,P1121,Electronics,Supplier C,1476.68,3,West,Chennai,Email,No,,
+ORD100490,2024-11-08,2024-11-16,P1000,Sports,Supplier C,232.88,4,North,Delhi,Ads,No,,
+ORD100491,2024-05-17,2024-05-19,P1033,Sports,Supplier D,702.25,2,East,Kolkata,Email,No,,
+ORD100492,2024-06-16,2024-06-21,P1095,Fashion,Supplier C,1023.88,4,West,Bangalore,Organic,No,,
+ORD100493,2024-04-12,2024-04-15,P1125,Home,Supplier C,599.36,2,East,Delhi,Organic,No,,
+ORD100494,2024-03-25,2024-03-30,P1117,Electronics,Supplier D,1462.3,1,East,Hyderabad,Social Media,No,,
+ORD100495,2024-11-12,2024-11-20,P1047,Fashion,Supplier C,1085.61,1,South,Hyderabad,Social Media,Yes,2024-12-02,Late Delivery
+ORD100496,2024-07-30,2024-08-05,P1088,Fashion,Supplier A,988.91,4,South,Bangalore,Social Media,No,,
+ORD100497,2024-01-03,2024-01-11,P1116,Beauty,Supplier B,1138.02,4,East,Kolkata,Organic,Yes,2024-01-20,Size Issue
+ORD100498,2024-06-27,2024-07-06,P1128,Sports,Supplier C,1429.45,1,East,Delhi,Organic,No,,
+ORD100499,2024-12-07,2024-12-12,P1015,Electronics,Supplier B,1362.65,2,North,Delhi,Ads,No,,
+ORD100500,2024-10-29,2024-11-05,P1188,Electronics,Supplier C,1089.19,1,West,Kolkata,Social Media,No,,
+ORD100501,2024-11-27,2024-11-29,P1191,Electronics,Supplier C,1126.25,4,North,Kolkata,Organic,No,,
+ORD100502,2024-02-07,2024-02-09,P1190,Fashion,Supplier A,227.42,1,South,Kolkata,Ads,No,,
+ORD100503,2024-08-26,2024-08-31,P1068,Beauty,Supplier D,163.16,4,South,Hyderabad,Organic,No,,
+ORD100504,2024-06-17,2024-06-19,P1021,Home,Supplier B,860.65,4,North,Bangalore,Ads,Yes,2024-06-26,No Longer Needed
+ORD100505,2024-12-08,2024-12-15,P1092,Fashion,Supplier D,37.37,1,West,Kolkata,Social Media,No,,
+ORD100506,2024-11-09,2024-11-17,P1194,Home,Supplier A,728.71,2,East,Bangalore,Social Media,No,,
+ORD100507,2024-11-01,2024-11-03,P1075,Beauty,Supplier A,323.42,3,North,Chennai,Social Media,No,,
+ORD100508,2024-01-30,2024-02-04,P1153,Sports,Supplier B,525.56,1,South,Delhi,Organic,No,,
+ORD100509,2024-07-08,2024-07-12,P1143,Electronics,Supplier D,1165.95,3,West,Delhi,Organic,No,,
+ORD100510,2024-12-22,2024-12-26,P1178,Home,Supplier A,1412.44,1,South,Mumbai,Ads,No,,
+ORD100511,2024-01-25,2024-01-28,P1085,Fashion,Supplier C,117.9,3,West,Chennai,Email,No,,
+ORD100512,2024-04-21,2024-04-30,P1184,Home,Supplier C,806.02,2,West,Kolkata,Email,No,,
+ORD100513,2024-07-24,2024-07-26,P1028,Sports,Supplier C,1324.97,2,West,Kolkata,Social Media,Yes,2024-08-01,No Longer Needed
+ORD100514,2024-07-03,2024-07-12,P1068,Electronics,Supplier D,132.94,1,North,Hyderabad,Email,No,,
+ORD100515,2024-02-16,2024-02-24,P1046,Home,Supplier C,1238.53,4,North,Chennai,Social Media,No,,
+ORD100516,2024-08-15,2024-08-20,P1093,Sports,Supplier C,543.12,3,North,Kolkata,Ads,No,,
+ORD100517,2024-02-08,2024-02-10,P1189,Fashion,Supplier A,489.92,4,West,Mumbai,Email,No,,
+ORD100518,2024-01-16,2024-01-22,P1196,Beauty,Supplier A,1466.42,4,West,Bangalore,Email,No,,
+ORD100519,2024-01-22,2024-01-29,P1143,Fashion,Supplier C,309.28,4,South,Delhi,Social Media,No,,
+ORD100520,2024-07-31,2024-08-02,P1175,Electronics,Supplier C,1042.86,2,East,Chennai,Ads,No,,
+ORD100521,2024-11-05,2024-11-07,P1084,Fashion,Supplier A,1233.95,1,North,Delhi,Email,No,,
+ORD100522,2024-05-28,2024-06-06,P1038,Fashion,Supplier B,71.36,1,West,Bangalore,Email,No,,
+ORD100523,2024-08-28,2024-09-06,P1099,Fashion,Supplier D,1008.87,2,South,Chennai,Email,No,,
+ORD100524,2024-09-28,2024-10-02,P1032,Fashion,Supplier D,1427.81,2,South,Bangalore,Ads,Yes,2024-10-14,Damaged
+ORD100525,2024-02-28,2024-03-06,P1100,Electronics,Supplier A,195.09,1,South,Kolkata,Ads,Yes,2024-03-11,Not as Described
+ORD100526,2024-10-13,2024-10-18,P1022,Sports,Supplier D,1345.37,4,North,Kolkata,Email,No,,
+ORD100527,2024-07-20,2024-07-22,P1009,Home,Supplier A,896.22,3,North,Kolkata,Social Media,Yes,2024-07-25,Wrong Item
+ORD100528,2024-02-01,2024-02-05,P1068,Beauty,Supplier A,928.74,3,East,Bangalore,Social Media,Yes,2024-02-17,Damaged
+ORD100529,2024-06-10,2024-06-19,P1099,Home,Supplier A,923.29,3,South,Bangalore,Email,No,,
+ORD100530,2024-09-11,2024-09-14,P1033,Home,Supplier A,455.27,4,North,Bangalore,Ads,No,,
+ORD100531,2024-09-10,2024-09-17,P1179,Beauty,Supplier B,1403.45,1,South,Delhi,Email,No,,
+ORD100532,2024-01-09,2024-01-13,P1137,Electronics,Supplier C,1421.55,2,West,Bangalore,Ads,No,,
+ORD100533,2024-05-18,2024-05-22,P1146,Beauty,Supplier C,941.7,1,South,Kolkata,Email,Yes,2024-06-01,No Longer Needed
+ORD100534,2024-01-10,2024-01-18,P1185,Electronics,Supplier B,1177.3,4,East,Mumbai,Ads,No,,
+ORD100535,2024-08-01,2024-08-05,P1095,Home,Supplier D,922.26,2,North,Bangalore,Organic,No,,
+ORD100536,2024-09-29,2024-10-07,P1000,Electronics,Supplier D,731.75,4,West,Mumbai,Social Media,No,,
+ORD100537,2024-11-19,2024-11-21,P1068,Sports,Supplier C,994.62,3,North,Kolkata,Organic,Yes,2024-12-01,Damaged
+ORD100538,2024-02-17,2024-02-19,P1003,Beauty,Supplier D,833.97,3,West,Bangalore,Social Media,No,,
+ORD100539,2024-04-20,2024-04-29,P1015,Sports,Supplier C,900.24,4,South,Delhi,Ads,No,,
+ORD100540,2024-06-01,2024-06-04,P1023,Home,Supplier C,1177.91,2,South,Delhi,Organic,No,,
+ORD100541,2024-05-02,2024-05-08,P1079,Beauty,Supplier B,726.55,2,East,Mumbai,Social Media,Yes,2024-05-12,Size Issue
+ORD100542,2024-12-22,2024-12-28,P1001,Home,Supplier D,70.72,1,East,Hyderabad,Email,No,,
+ORD100543,2024-04-11,2024-04-17,P1127,Sports,Supplier B,254.36,3,West,Delhi,Ads,No,,
+ORD100544,2024-08-28,2024-09-06,P1159,Home,Supplier C,663.52,1,East,Delhi,Ads,No,,
+ORD100545,2024-11-16,2024-11-24,P1083,Beauty,Supplier C,1089.99,1,East,Delhi,Email,No,,
+ORD100546,2024-07-09,2024-07-18,P1151,Beauty,Supplier C,893.99,4,East,Kolkata,Email,No,,
+ORD100547,2024-08-04,2024-08-11,P1139,Home,Supplier A,978.94,4,East,Delhi,Social Media,No,,
+ORD100548,2024-02-20,2024-02-27,P1177,Beauty,Supplier A,724.13,1,South,Chennai,Ads,Yes,2024-03-01,Not as Described
+ORD100549,2024-10-18,2024-10-21,P1162,Beauty,Supplier A,927.46,3,East,Bangalore,Social Media,No,,
+ORD100550,2024-03-21,2024-03-28,P1123,Home,Supplier B,500.24,4,South,Delhi,Email,Yes,2024-04-09,No Longer Needed
+ORD100551,2024-03-28,2024-04-03,P1032,Sports,Supplier C,710.57,1,South,Hyderabad,Ads,No,,
+ORD100552,2024-07-12,2024-07-18,P1160,Beauty,Supplier D,1118.98,1,North,Hyderabad,Email,No,,
+ORD100553,2024-04-13,2024-04-22,P1188,Beauty,Supplier B,1309.03,1,South,Delhi,Social Media,No,,
+ORD100554,2024-09-27,2024-10-01,P1178,Beauty,Supplier B,656.15,1,South,Delhi,Social Media,Yes,2024-10-12,No Longer Needed
+ORD100555,2024-04-05,2024-04-12,P1170,Beauty,Supplier B,75.06,1,East,Chennai,Social Media,No,,
+ORD100556,2024-07-16,2024-07-25,P1100,Home,Supplier D,250.89,1,South,Delhi,Ads,No,,
+ORD100557,2024-01-01,2024-01-03,P1011,Sports,Supplier C,41.08,4,West,Delhi,Email,No,,
+ORD100558,2024-06-15,2024-06-17,P1066,Sports,Supplier A,983.36,3,East,Bangalore,Email,Yes,2024-06-25,Wrong Item
+ORD100559,2024-05-05,2024-05-09,P1064,Electronics,Supplier C,505.15,1,East,Hyderabad,Social Media,Yes,2024-05-12,Not as Described
+ORD100560,2024-11-08,2024-11-12,P1160,Beauty,Supplier C,818.29,2,East,Chennai,Social Media,No,,
+ORD100561,2024-03-21,2024-03-25,P1167,Beauty,Supplier B,744.98,4,North,Hyderabad,Social Media,No,,
+ORD100562,2024-09-07,2024-09-16,P1073,Electronics,Supplier B,131.47,4,East,Chennai,Social Media,No,,
+ORD100563,2024-06-17,2024-06-19,P1042,Sports,Supplier B,610.86,1,South,Hyderabad,Organic,Yes,2024-06-26,Size Issue
+ORD100564,2024-03-13,2024-03-19,P1043,Fashion,Supplier A,338.64,4,West,Delhi,Organic,No,,
+ORD100565,2024-05-20,2024-05-24,P1028,Fashion,Supplier A,633.42,1,East,Hyderabad,Organic,No,,
+ORD100566,2024-03-10,2024-03-13,P1140,Sports,Supplier A,313.33,3,East,Hyderabad,Social Media,No,,
+ORD100567,2024-09-18,2024-09-26,P1011,Beauty,Supplier C,1262.27,3,West,Chennai,Social Media,No,,
+ORD100568,2024-12-05,2024-12-14,P1094,Fashion,Supplier B,269.55,4,East,Mumbai,Email,Yes,2024-12-21,Late Delivery
+ORD100569,2024-11-03,2024-11-07,P1045,Home,Supplier D,1441.56,4,North,Chennai,Ads,Yes,2024-11-14,Damaged
+ORD100570,2024-09-01,2024-09-09,P1129,Home,Supplier C,629.7,2,South,Chennai,Email,Yes,2024-09-22,Wrong Item
+ORD100571,2024-01-03,2024-01-08,P1034,Electronics,Supplier A,1270.91,4,West,Chennai,Organic,No,,
+ORD100572,2024-12-02,2024-12-06,P1080,Sports,Supplier D,946.86,2,West,Kolkata,Email,Yes,2024-12-13,No Longer Needed
+ORD100573,2024-03-03,2024-03-05,P1089,Sports,Supplier D,1105.67,3,North,Kolkata,Social Media,Yes,2024-03-19,Late Delivery
+ORD100574,2024-02-18,2024-02-25,P1007,Fashion,Supplier B,1153.91,3,South,Kolkata,Organic,No,,
+ORD100575,2024-03-16,2024-03-20,P1092,Beauty,Supplier D,762.22,1,North,Chennai,Organic,No,,
+ORD100576,2024-06-23,2024-07-02,P1153,Sports,Supplier A,819.52,3,South,Mumbai,Ads,No,,
+ORD100577,2024-04-18,2024-04-25,P1089,Fashion,Supplier B,775.85,2,North,Chennai,Ads,No,,
+ORD100578,2024-07-01,2024-07-06,P1161,Fashion,Supplier D,886.21,4,East,Delhi,Organic,No,,
+ORD100579,2024-07-10,2024-07-13,P1114,Sports,Supplier B,53.8,1,North,Mumbai,Organic,Yes,2024-07-15,Size Issue
+ORD100580,2024-03-05,2024-03-12,P1104,Fashion,Supplier D,599.32,2,West,Kolkata,Email,No,,
+ORD100581,2024-12-02,2024-12-10,P1134,Electronics,Supplier C,913.22,4,West,Hyderabad,Organic,No,,
+ORD100582,2024-09-27,2024-10-03,P1195,Electronics,Supplier C,900.61,1,West,Hyderabad,Social Media,No,,
+ORD100583,2024-04-09,2024-04-13,P1057,Sports,Supplier A,1191.5,3,North,Bangalore,Email,Yes,2024-04-23,Not as Described
+ORD100584,2024-02-01,2024-02-06,P1113,Beauty,Supplier C,985.96,2,West,Mumbai,Social Media,No,,
+ORD100585,2024-12-17,2024-12-22,P1074,Electronics,Supplier C,1488.28,4,West,Kolkata,Social Media,No,,
+ORD100586,2024-05-07,2024-05-14,P1156,Electronics,Supplier C,432.94,1,East,Mumbai,Social Media,No,,
+ORD100587,2024-12-04,2024-12-07,P1119,Sports,Supplier D,545.14,1,East,Mumbai,Organic,No,,
+ORD100588,2024-02-12,2024-02-14,P1163,Home,Supplier D,581.93,3,South,Hyderabad,Ads,Yes,2024-02-17,Damaged
+ORD100589,2024-03-18,2024-03-22,P1020,Fashion,Supplier B,704.06,4,South,Chennai,Ads,No,,
+ORD100590,2024-11-09,2024-11-14,P1163,Electronics,Supplier D,1255.64,3,South,Delhi,Social Media,No,,
+ORD100591,2024-10-15,2024-10-18,P1137,Home,Supplier C,361.33,3,North,Bangalore,Organic,No,,
+ORD100592,2024-09-26,2024-10-02,P1100,Beauty,Supplier D,1166.24,4,South,Kolkata,Email,No,,
+ORD100593,2024-06-10,2024-06-15,P1151,Home,Supplier A,613.91,4,North,Mumbai,Social Media,No,,
+ORD100594,2024-07-07,2024-07-10,P1191,Sports,Supplier B,906.76,4,North,Bangalore,Email,Yes,2024-07-20,Wrong Item
+ORD100595,2024-09-03,2024-09-12,P1176,Beauty,Supplier B,952.49,2,South,Mumbai,Email,No,,
+ORD100596,2024-08-03,2024-08-05,P1098,Beauty,Supplier D,565.54,4,South,Hyderabad,Organic,No,,
+ORD100597,2024-11-10,2024-11-12,P1035,Home,Supplier C,773.8,1,North,Delhi,Organic,No,,
+ORD100598,2024-12-04,2024-12-09,P1095,Sports,Supplier B,625.42,3,East,Hyderabad,Ads,Yes,2024-12-18,No Longer Needed
+ORD100599,2024-06-16,2024-06-24,P1151,Electronics,Supplier A,113.01,2,West,Bangalore,Ads,No,,
+ORD100600,2024-12-04,2024-12-09,P1150,Home,Supplier A,661.38,4,West,Kolkata,Organic,No,,
+ORD100601,2024-07-11,2024-07-18,P1189,Electronics,Supplier B,155.12,2,West,Mumbai,Social Media,No,,
+ORD100602,2024-10-09,2024-10-13,P1036,Home,Supplier C,613.48,4,East,Delhi,Ads,No,,
+ORD100603,2024-12-01,2024-12-04,P1011,Electronics,Supplier C,893.45,2,North,Hyderabad,Email,Yes,2024-12-07,No Longer Needed
+ORD100604,2024-01-13,2024-01-18,P1112,Home,Supplier D,873.33,3,South,Bangalore,Social Media,No,,
+ORD100605,2024-08-27,2024-08-31,P1182,Beauty,Supplier D,997.31,3,North,Hyderabad,Email,No,,
+ORD100606,2024-11-15,2024-11-22,P1012,Fashion,Supplier B,151.94,1,North,Mumbai,Organic,No,,
+ORD100607,2024-05-26,2024-06-04,P1022,Beauty,Supplier D,981.66,1,South,Mumbai,Email,No,,
+ORD100608,2024-07-22,2024-07-31,P1098,Electronics,Supplier D,475.1,4,East,Kolkata,Social Media,Yes,2024-08-02,Late Delivery
+ORD100609,2024-03-20,2024-03-24,P1104,Sports,Supplier D,604.58,3,West,Delhi,Organic,No,,
+ORD100610,2024-02-12,2024-02-17,P1029,Beauty,Supplier A,1288.4,2,West,Chennai,Social Media,No,,
+ORD100611,2024-03-29,2024-03-31,P1016,Fashion,Supplier D,23.46,2,North,Hyderabad,Email,No,,
+ORD100612,2024-05-27,2024-05-30,P1112,Electronics,Supplier B,886.73,2,East,Mumbai,Social Media,No,,
+ORD100613,2024-04-04,2024-04-07,P1061,Beauty,Supplier C,902.08,1,West,Bangalore,Organic,No,,
+ORD100614,2024-05-30,2024-06-08,P1083,Home,Supplier D,601.02,2,East,Hyderabad,Email,No,,
+ORD100615,2024-01-02,2024-01-11,P1111,Sports,Supplier C,363.17,1,South,Kolkata,Email,Yes,2024-01-20,Late Delivery
+ORD100616,2024-01-22,2024-01-24,P1085,Electronics,Supplier D,359.66,1,North,Kolkata,Ads,No,,
+ORD100617,2024-11-08,2024-11-16,P1140,Beauty,Supplier B,1326.73,4,North,Mumbai,Ads,No,,
+ORD100618,2024-11-23,2024-11-28,P1186,Electronics,Supplier A,668.62,2,East,Mumbai,Social Media,No,,
+ORD100619,2024-01-07,2024-01-16,P1018,Home,Supplier B,503.03,2,West,Mumbai,Ads,No,,
+ORD100620,2024-07-24,2024-08-02,P1176,Fashion,Supplier A,678.68,3,East,Chennai,Ads,No,,
+ORD100621,2024-04-23,2024-05-02,P1099,Beauty,Supplier D,1007.39,4,South,Mumbai,Ads,No,,
+ORD100622,2024-09-28,2024-10-01,P1139,Electronics,Supplier D,227.18,3,West,Hyderabad,Ads,No,,
+ORD100623,2024-03-23,2024-03-28,P1188,Electronics,Supplier A,679.66,4,West,Hyderabad,Organic,No,,
+ORD100624,2024-06-27,2024-07-04,P1146,Electronics,Supplier B,885.95,2,East,Delhi,Organic,Yes,2024-07-17,Damaged
+ORD100625,2024-07-28,2024-08-02,P1075,Fashion,Supplier B,1423.39,1,South,Bangalore,Ads,Yes,2024-08-12,Not as Described
+ORD100626,2024-11-23,2024-11-27,P1008,Electronics,Supplier A,386.27,1,West,Mumbai,Social Media,No,,
+ORD100627,2024-05-03,2024-05-05,P1198,Sports,Supplier D,545.28,1,North,Hyderabad,Organic,Yes,2024-05-14,Size Issue
+ORD100628,2024-04-22,2024-04-30,P1027,Sports,Supplier A,575.24,1,South,Hyderabad,Ads,No,,
+ORD100629,2024-01-12,2024-01-21,P1127,Electronics,Supplier D,912.25,1,West,Hyderabad,Organic,No,,
+ORD100630,2024-05-05,2024-05-14,P1051,Sports,Supplier A,541.53,3,East,Chennai,Email,No,,
+ORD100631,2024-02-22,2024-02-27,P1082,Beauty,Supplier D,804.93,4,West,Bangalore,Organic,No,,
+ORD100632,2024-11-26,2024-12-04,P1110,Sports,Supplier A,1174.87,2,North,Kolkata,Organic,No,,
+ORD100633,2024-10-09,2024-10-18,P1143,Electronics,Supplier C,1061.02,3,South,Hyderabad,Social Media,Yes,2024-10-22,Not as Described
+ORD100634,2024-05-19,2024-05-27,P1116,Home,Supplier D,675.09,4,West,Mumbai,Organic,No,,
+ORD100635,2024-04-06,2024-04-13,P1068,Beauty,Supplier B,1297.68,1,North,Hyderabad,Social Media,No,,
+ORD100636,2024-01-05,2024-01-11,P1098,Fashion,Supplier A,841.63,4,West,Bangalore,Email,Yes,2024-01-25,Not as Described
+ORD100637,2024-02-26,2024-02-28,P1139,Electronics,Supplier B,814.46,4,West,Kolkata,Ads,No,,
+ORD100638,2024-11-29,2024-12-07,P1024,Fashion,Supplier A,60.94,1,South,Chennai,Social Media,No,,
+ORD100639,2024-03-09,2024-03-12,P1179,Home,Supplier B,1480.17,1,East,Delhi,Organic,No,,
+ORD100640,2024-04-27,2024-05-01,P1122,Fashion,Supplier B,193.23,1,East,Mumbai,Organic,No,,
+ORD100641,2024-02-28,2024-03-02,P1052,Electronics,Supplier A,354.39,2,North,Delhi,Social Media,No,,
+ORD100642,2024-02-02,2024-02-11,P1150,Electronics,Supplier A,87.03,1,North,Chennai,Email,No,,
+ORD100643,2024-11-13,2024-11-20,P1143,Home,Supplier B,963.6,2,North,Bangalore,Ads,Yes,2024-12-02,Not as Described
+ORD100644,2024-02-19,2024-02-26,P1056,Electronics,Supplier B,344.8,1,South,Bangalore,Organic,No,,
+ORD100645,2024-01-19,2024-01-22,P1038,Home,Supplier B,278.22,2,East,Chennai,Email,No,,
+ORD100646,2024-08-01,2024-08-03,P1108,Home,Supplier D,141.95,4,North,Hyderabad,Ads,No,,
+ORD100647,2024-07-15,2024-07-18,P1180,Electronics,Supplier D,163.93,3,North,Chennai,Ads,Yes,2024-07-27,Damaged
+ORD100648,2024-02-16,2024-02-21,P1041,Sports,Supplier C,881.16,4,West,Mumbai,Organic,No,,
+ORD100649,2024-06-15,2024-06-24,P1185,Home,Supplier D,1035.43,4,West,Kolkata,Social Media,No,,
+ORD100650,2024-10-15,2024-10-24,P1166,Electronics,Supplier D,602.09,1,North,Delhi,Organic,No,,
+ORD100651,2024-05-20,2024-05-23,P1141,Sports,Supplier A,725.05,2,West,Delhi,Organic,No,,
+ORD100652,2024-03-24,2024-03-28,P1121,Home,Supplier C,1032.09,3,West,Bangalore,Organic,Yes,2024-03-31,Damaged
+ORD100653,2024-06-30,2024-07-04,P1132,Sports,Supplier C,35.9,1,West,Hyderabad,Email,No,,
+ORD100654,2024-03-19,2024-03-28,P1162,Beauty,Supplier D,491.46,1,South,Bangalore,Social Media,No,,
+ORD100655,2024-08-02,2024-08-08,P1074,Beauty,Supplier A,1459.92,1,North,Mumbai,Email,Yes,2024-08-15,Size Issue
+ORD100656,2024-01-14,2024-01-18,P1145,Sports,Supplier A,874.37,4,North,Chennai,Organic,Yes,2024-01-25,Not as Described
+ORD100657,2024-08-02,2024-08-05,P1075,Home,Supplier C,388.79,2,West,Delhi,Social Media,No,,
+ORD100658,2024-05-07,2024-05-11,P1008,Electronics,Supplier A,787.38,2,South,Mumbai,Ads,Yes,2024-05-22,Damaged
+ORD100659,2024-11-05,2024-11-14,P1073,Fashion,Supplier B,520.55,3,West,Bangalore,Social Media,No,,
+ORD100660,2024-09-04,2024-09-06,P1185,Electronics,Supplier D,803.05,2,South,Bangalore,Organic,No,,
+ORD100661,2024-01-29,2024-02-06,P1144,Fashion,Supplier B,197.35,2,North,Delhi,Social Media,Yes,2024-02-14,Size Issue
+ORD100662,2024-10-06,2024-10-10,P1006,Fashion,Supplier C,207.74,1,West,Bangalore,Ads,Yes,2024-10-20,No Longer Needed
+ORD100663,2024-12-03,2024-12-08,P1173,Home,Supplier C,223.88,1,North,Hyderabad,Ads,No,,
+ORD100664,2024-11-14,2024-11-16,P1140,Sports,Supplier A,1410.33,4,South,Bangalore,Social Media,No,,
+ORD100665,2024-07-20,2024-07-26,P1167,Electronics,Supplier A,1102.02,1,East,Kolkata,Ads,No,,
+ORD100666,2024-12-26,2024-12-31,P1169,Sports,Supplier C,251.95,1,South,Chennai,Email,No,,
+ORD100667,2024-02-26,2024-02-29,P1136,Beauty,Supplier C,290.64,1,East,Bangalore,Social Media,No,,
+ORD100668,2024-08-05,2024-08-13,P1177,Home,Supplier B,1098.94,1,North,Kolkata,Ads,Yes,2024-08-17,Size Issue
+ORD100669,2024-03-02,2024-03-05,P1026,Home,Supplier B,242.68,4,North,Mumbai,Ads,Yes,2024-03-08,Not as Described
+ORD100670,2024-06-05,2024-06-13,P1121,Beauty,Supplier A,359.5,1,West,Bangalore,Social Media,No,,
+ORD100671,2024-07-20,2024-07-28,P1193,Electronics,Supplier B,1445.39,3,East,Hyderabad,Email,No,,
+ORD100672,2024-01-17,2024-01-20,P1004,Beauty,Supplier A,390.41,3,South,Mumbai,Social Media,No,,
+ORD100673,2024-11-17,2024-11-22,P1028,Electronics,Supplier A,995.83,3,North,Bangalore,Ads,No,,
+ORD100674,2024-01-06,2024-01-11,P1164,Fashion,Supplier D,1468.16,3,East,Delhi,Social Media,No,,
+ORD100675,2024-02-27,2024-03-06,P1165,Home,Supplier A,567.7,1,South,Kolkata,Ads,No,,
+ORD100676,2024-11-20,2024-11-25,P1082,Electronics,Supplier B,36.1,3,East,Kolkata,Organic,No,,
+ORD100677,2024-11-13,2024-11-21,P1135,Sports,Supplier C,373.78,1,South,Delhi,Social Media,Yes,2024-11-24,Wrong Item
+ORD100678,2024-06-17,2024-06-26,P1108,Sports,Supplier C,1248.01,4,South,Chennai,Social Media,Yes,2024-07-08,Not as Described
+ORD100679,2024-03-22,2024-03-30,P1064,Home,Supplier B,1298.27,3,South,Hyderabad,Ads,No,,
+ORD100680,2024-08-06,2024-08-15,P1085,Beauty,Supplier C,1155.09,2,South,Kolkata,Ads,No,,
+ORD100681,2024-06-25,2024-06-27,P1144,Beauty,Supplier A,178.53,3,East,Mumbai,Ads,No,,
+ORD100682,2024-07-22,2024-07-29,P1070,Electronics,Supplier C,1195.31,3,East,Hyderabad,Ads,No,,
+ORD100683,2024-03-11,2024-03-13,P1044,Beauty,Supplier B,1378.83,1,West,Kolkata,Social Media,Yes,2024-03-18,Wrong Item
+ORD100684,2024-09-22,2024-09-25,P1131,Home,Supplier C,904.91,3,East,Chennai,Ads,Yes,2024-10-06,Size Issue
+ORD100685,2024-04-07,2024-04-14,P1035,Electronics,Supplier A,1411.9,2,East,Mumbai,Social Media,No,,
+ORD100686,2024-12-10,2024-12-14,P1069,Fashion,Supplier A,1241.99,1,West,Hyderabad,Email,No,,
+ORD100687,2024-10-17,2024-10-20,P1158,Beauty,Supplier B,1003.79,1,East,Mumbai,Social Media,No,,
+ORD100688,2024-07-26,2024-08-01,P1018,Beauty,Supplier B,870.01,4,South,Delhi,Ads,No,,
+ORD100689,2024-01-02,2024-01-04,P1188,Electronics,Supplier B,529.37,4,North,Bangalore,Ads,No,,
+ORD100690,2024-05-03,2024-05-08,P1107,Sports,Supplier D,247.34,3,North,Delhi,Email,No,,
+ORD100691,2024-10-06,2024-10-08,P1181,Beauty,Supplier D,911.38,4,West,Hyderabad,Social Media,Yes,2024-10-22,No Longer Needed
+ORD100692,2024-03-14,2024-03-19,P1166,Home,Supplier A,483.99,4,East,Bangalore,Email,No,,
+ORD100693,2024-06-14,2024-06-21,P1090,Beauty,Supplier D,1300.99,4,East,Delhi,Social Media,No,,
+ORD100694,2024-01-22,2024-01-28,P1089,Fashion,Supplier D,1490.07,1,West,Bangalore,Ads,Yes,2024-01-29,No Longer Needed
+ORD100695,2024-06-02,2024-06-09,P1018,Beauty,Supplier C,1131.12,1,North,Kolkata,Social Media,No,,
+ORD100696,2024-10-21,2024-10-27,P1038,Sports,Supplier D,144.82,1,South,Mumbai,Ads,No,,
+ORD100697,2024-08-06,2024-08-08,P1125,Beauty,Supplier C,440.14,4,East,Bangalore,Ads,No,,
+ORD100698,2024-06-05,2024-06-10,P1194,Electronics,Supplier B,172.57,1,West,Kolkata,Organic,Yes,2024-06-20,Damaged
+ORD100699,2024-08-17,2024-08-24,P1172,Beauty,Supplier C,979.26,4,South,Chennai,Organic,No,,
+ORD100700,2024-01-20,2024-01-26,P1140,Sports,Supplier C,1150.13,1,West,Delhi,Social Media,Yes,2024-01-29,No Longer Needed
+ORD100701,2024-02-10,2024-02-18,P1125,Electronics,Supplier B,1389.26,1,West,Chennai,Ads,No,,
+ORD100702,2024-05-27,2024-05-30,P1057,Home,Supplier B,662.88,2,West,Hyderabad,Email,No,,
+ORD100703,2024-04-17,2024-04-20,P1147,Electronics,Supplier A,1353.05,3,North,Kolkata,Ads,No,,
+ORD100704,2024-03-24,2024-03-31,P1199,Fashion,Supplier A,1318.06,4,North,Chennai,Email,No,,
+ORD100705,2024-11-17,2024-11-22,P1060,Electronics,Supplier A,482.62,2,West,Chennai,Social Media,No,,
+ORD100706,2024-11-04,2024-11-12,P1126,Home,Supplier A,1304.66,1,East,Kolkata,Social Media,Yes,2024-11-26,Late Delivery
+ORD100707,2024-10-16,2024-10-23,P1104,Beauty,Supplier C,569.75,4,South,Mumbai,Email,No,,
+ORD100708,2024-11-18,2024-11-20,P1166,Electronics,Supplier C,452.34,1,East,Bangalore,Email,No,,
+ORD100709,2024-05-13,2024-05-19,P1000,Electronics,Supplier A,977.12,3,North,Hyderabad,Ads,No,,
+ORD100710,2024-07-25,2024-08-03,P1130,Electronics,Supplier D,499.29,2,South,Hyderabad,Social Media,No,,
+ORD100711,2024-10-09,2024-10-11,P1091,Electronics,Supplier A,949.01,3,West,Delhi,Ads,Yes,2024-10-17,Size Issue
+ORD100712,2024-09-22,2024-09-25,P1189,Home,Supplier D,918.65,2,East,Bangalore,Email,No,,
+ORD100713,2024-03-13,2024-03-19,P1190,Sports,Supplier B,849.52,1,East,Delhi,Organic,No,,
+ORD100714,2024-12-17,2024-12-24,P1112,Sports,Supplier C,576.83,3,West,Hyderabad,Organic,Yes,2024-12-27,Damaged
+ORD100715,2024-02-17,2024-02-19,P1152,Electronics,Supplier C,827.26,3,East,Bangalore,Organic,No,,
+ORD100716,2024-11-21,2024-11-25,P1055,Home,Supplier D,898.76,1,North,Chennai,Email,No,,
+ORD100717,2024-08-20,2024-08-29,P1160,Home,Supplier A,823.07,3,West,Mumbai,Ads,No,,
+ORD100718,2024-04-09,2024-04-14,P1165,Electronics,Supplier C,672.18,4,East,Chennai,Social Media,No,,
+ORD100719,2024-02-28,2024-03-07,P1116,Fashion,Supplier D,31.85,2,West,Mumbai,Email,No,,
+ORD100720,2024-09-14,2024-09-22,P1133,Electronics,Supplier B,884.72,2,South,Kolkata,Organic,No,,
+ORD100721,2024-03-05,2024-03-10,P1057,Fashion,Supplier B,260.98,2,West,Delhi,Ads,No,,
+ORD100722,2024-03-23,2024-03-27,P1043,Electronics,Supplier C,967.44,4,East,Delhi,Social Media,No,,
+ORD100723,2024-06-02,2024-06-05,P1172,Fashion,Supplier A,1141.42,2,North,Kolkata,Social Media,No,,
+ORD100724,2024-09-22,2024-09-28,P1159,Fashion,Supplier D,755.66,1,West,Bangalore,Email,No,,
+ORD100725,2024-11-04,2024-11-09,P1172,Electronics,Supplier C,818.12,3,West,Kolkata,Email,No,,
+ORD100726,2024-03-19,2024-03-23,P1060,Fashion,Supplier B,1427.7,4,East,Hyderabad,Social Media,No,,
+ORD100727,2024-11-10,2024-11-17,P1046,Beauty,Supplier A,1272.28,2,North,Kolkata,Social Media,No,,
+ORD100728,2024-05-29,2024-06-07,P1148,Sports,Supplier D,1372.21,1,North,Mumbai,Organic,No,,
+ORD100729,2024-02-17,2024-02-25,P1079,Home,Supplier C,1222.51,3,South,Hyderabad,Social Media,No,,
+ORD100730,2024-09-04,2024-09-13,P1117,Fashion,Supplier D,172.29,3,South,Kolkata,Email,Yes,2024-09-18,No Longer Needed
+ORD100731,2024-10-04,2024-10-08,P1163,Fashion,Supplier A,232.0,4,East,Delhi,Ads,No,,
+ORD100732,2024-12-21,2024-12-30,P1146,Home,Supplier A,794.67,4,North,Chennai,Organic,No,,
+ORD100733,2024-04-07,2024-04-10,P1019,Fashion,Supplier B,376.64,4,North,Mumbai,Organic,No,,
+ORD100734,2024-01-25,2024-01-28,P1184,Home,Supplier A,720.28,1,South,Mumbai,Social Media,No,,
+ORD100735,2024-10-10,2024-10-12,P1145,Electronics,Supplier C,597.6,1,South,Bangalore,Ads,No,,
+ORD100736,2024-10-27,2024-11-01,P1046,Beauty,Supplier D,828.63,4,East,Chennai,Organic,No,,
+ORD100737,2024-03-08,2024-03-10,P1048,Beauty,Supplier A,1122.84,2,North,Mumbai,Email,No,,
+ORD100738,2024-01-07,2024-01-16,P1013,Sports,Supplier A,1076.08,3,West,Kolkata,Social Media,Yes,2024-01-25,Size Issue
+ORD100739,2024-10-31,2024-11-08,P1142,Fashion,Supplier C,786.64,3,South,Mumbai,Email,No,,
+ORD100740,2024-05-16,2024-05-20,P1158,Sports,Supplier D,1235.37,1,East,Mumbai,Social Media,No,,
+ORD100741,2024-06-12,2024-06-18,P1000,Electronics,Supplier D,651.98,3,North,Mumbai,Organic,Yes,2024-06-20,Not as Described
+ORD100742,2024-03-23,2024-04-01,P1116,Beauty,Supplier B,1346.1,2,North,Bangalore,Social Media,Yes,2024-04-12,No Longer Needed
+ORD100743,2024-05-17,2024-05-23,P1053,Electronics,Supplier B,116.21,3,South,Mumbai,Ads,Yes,2024-05-25,Wrong Item
+ORD100744,2024-03-13,2024-03-16,P1117,Electronics,Supplier D,1432.44,1,East,Mumbai,Email,No,,
+ORD100745,2024-08-24,2024-08-30,P1002,Fashion,Supplier C,985.49,1,West,Bangalore,Ads,No,,
+ORD100746,2024-02-15,2024-02-21,P1143,Electronics,Supplier C,576.31,2,South,Hyderabad,Email,Yes,2024-03-04,Size Issue
+ORD100747,2024-04-15,2024-04-23,P1184,Beauty,Supplier B,303.76,2,East,Chennai,Email,No,,
+ORD100748,2024-10-14,2024-10-20,P1011,Sports,Supplier A,723.98,3,North,Hyderabad,Social Media,No,,
+ORD100749,2024-09-18,2024-09-27,P1073,Beauty,Supplier C,299.89,3,West,Delhi,Organic,No,,
+ORD100750,2024-06-24,2024-06-28,P1015,Fashion,Supplier A,257.83,1,East,Bangalore,Organic,Yes,2024-07-04,Damaged
+ORD100751,2024-06-14,2024-06-20,P1199,Beauty,Supplier C,929.85,2,West,Bangalore,Ads,Yes,2024-06-26,Not as Described
+ORD100752,2024-05-24,2024-05-31,P1101,Home,Supplier D,789.4,2,East,Mumbai,Social Media,No,,
+ORD100753,2024-11-25,2024-12-01,P1151,Sports,Supplier B,1008.44,2,East,Mumbai,Organic,No,,
+ORD100754,2024-10-09,2024-10-15,P1155,Home,Supplier A,1395.11,3,East,Delhi,Email,No,,
+ORD100755,2024-02-23,2024-02-25,P1116,Home,Supplier A,803.07,2,East,Mumbai,Email,No,,
+ORD100756,2024-06-26,2024-06-30,P1007,Fashion,Supplier D,875.59,1,West,Kolkata,Social Media,No,,
+ORD100757,2024-08-31,2024-09-09,P1121,Electronics,Supplier C,143.54,1,South,Mumbai,Ads,No,,
+ORD100758,2024-12-06,2024-12-09,P1091,Home,Supplier A,1079.28,3,West,Mumbai,Social Media,No,,
+ORD100759,2024-05-06,2024-05-08,P1163,Beauty,Supplier C,605.86,4,East,Kolkata,Ads,No,,
+ORD100760,2024-09-27,2024-10-06,P1089,Electronics,Supplier D,1465.32,3,West,Delhi,Social Media,No,,
+ORD100761,2024-05-11,2024-05-16,P1135,Beauty,Supplier B,1236.53,4,West,Kolkata,Email,Yes,2024-05-27,Late Delivery
+ORD100762,2024-04-02,2024-04-06,P1185,Beauty,Supplier A,788.5,2,West,Bangalore,Social Media,No,,
+ORD100763,2024-03-13,2024-03-20,P1059,Electronics,Supplier C,193.6,3,East,Kolkata,Organic,No,,
+ORD100764,2024-09-04,2024-09-08,P1177,Electronics,Supplier A,1290.53,1,West,Chennai,Organic,No,,
+ORD100765,2024-12-13,2024-12-18,P1027,Beauty,Supplier C,1201.67,2,North,Bangalore,Social Media,No,,
+ORD100766,2024-09-29,2024-10-04,P1100,Fashion,Supplier C,285.03,1,East,Mumbai,Ads,No,,
+ORD100767,2024-02-12,2024-02-17,P1040,Sports,Supplier C,449.96,2,West,Bangalore,Ads,Yes,2024-02-28,Not as Described
+ORD100768,2024-02-10,2024-02-18,P1191,Sports,Supplier D,1192.18,3,North,Delhi,Email,No,,
+ORD100769,2024-06-18,2024-06-21,P1154,Fashion,Supplier B,285.99,4,West,Delhi,Email,No,,
+ORD100770,2024-07-30,2024-08-05,P1190,Electronics,Supplier A,1377.45,2,South,Kolkata,Ads,No,,
+ORD100771,2024-06-16,2024-06-20,P1144,Beauty,Supplier B,642.55,4,West,Bangalore,Social Media,No,,
+ORD100772,2024-02-08,2024-02-17,P1160,Sports,Supplier C,139.69,2,West,Mumbai,Email,No,,
+ORD100773,2024-09-01,2024-09-09,P1156,Beauty,Supplier C,1225.47,1,South,Delhi,Ads,Yes,2024-09-17,No Longer Needed
+ORD100774,2024-05-30,2024-06-08,P1140,Fashion,Supplier B,566.53,1,East,Hyderabad,Ads,No,,
+ORD100775,2024-04-20,2024-04-26,P1045,Beauty,Supplier B,794.48,2,South,Mumbai,Social Media,Yes,2024-05-08,Wrong Item
+ORD100776,2024-02-16,2024-02-22,P1034,Fashion,Supplier A,177.33,4,East,Hyderabad,Organic,No,,
+ORD100777,2024-03-03,2024-03-10,P1133,Electronics,Supplier C,13.85,3,South,Chennai,Ads,No,,
+ORD100778,2024-08-12,2024-08-17,P1081,Fashion,Supplier B,960.6,3,West,Hyderabad,Email,No,,
+ORD100779,2024-03-09,2024-03-12,P1114,Fashion,Supplier D,777.61,1,West,Delhi,Social Media,No,,
+ORD100780,2024-10-25,2024-11-01,P1196,Sports,Supplier C,894.37,3,East,Kolkata,Social Media,No,,
+ORD100781,2024-10-16,2024-10-18,P1046,Beauty,Supplier C,1192.68,1,East,Chennai,Social Media,No,,
+ORD100782,2024-10-22,2024-10-30,P1152,Sports,Supplier A,973.44,3,North,Bangalore,Organic,No,,
+ORD100783,2024-07-21,2024-07-29,P1193,Home,Supplier D,270.41,2,North,Mumbai,Organic,No,,
+ORD100784,2024-03-01,2024-03-04,P1009,Fashion,Supplier A,547.55,1,West,Delhi,Email,No,,
+ORD100785,2024-11-13,2024-11-19,P1055,Home,Supplier D,1359.78,1,West,Chennai,Email,No,,
+ORD100786,2024-11-09,2024-11-18,P1029,Sports,Supplier A,1157.22,2,North,Chennai,Social Media,Yes,2024-12-01,Not as Described
+ORD100787,2024-06-09,2024-06-17,P1108,Beauty,Supplier D,839.39,1,North,Delhi,Email,No,,
+ORD100788,2024-11-26,2024-11-29,P1004,Sports,Supplier D,390.91,3,East,Bangalore,Ads,No,,
+ORD100789,2024-01-16,2024-01-24,P1118,Beauty,Supplier D,460.07,3,South,Bangalore,Organic,No,,
+ORD100790,2024-12-03,2024-12-11,P1032,Beauty,Supplier B,1100.62,1,East,Kolkata,Social Media,Yes,2024-12-22,Late Delivery
+ORD100791,2024-04-03,2024-04-08,P1117,Electronics,Supplier C,1278.25,3,North,Hyderabad,Social Media,No,,
+ORD100792,2024-10-30,2024-11-01,P1064,Fashion,Supplier D,1010.42,4,West,Bangalore,Ads,No,,
+ORD100793,2024-05-17,2024-05-22,P1145,Sports,Supplier B,1216.2,1,North,Kolkata,Ads,No,,
+ORD100794,2024-12-03,2024-12-05,P1176,Beauty,Supplier B,1152.32,2,West,Hyderabad,Ads,No,,
+ORD100795,2024-02-07,2024-02-15,P1010,Sports,Supplier A,233.06,4,West,Chennai,Ads,No,,
+ORD100796,2024-05-06,2024-05-13,P1084,Sports,Supplier C,641.68,1,West,Delhi,Social Media,No,,
+ORD100797,2024-10-01,2024-10-10,P1025,Beauty,Supplier C,237.95,2,West,Bangalore,Organic,Yes,2024-10-24,Damaged
+ORD100798,2024-06-12,2024-06-18,P1062,Home,Supplier A,360.5,3,South,Kolkata,Organic,No,,
+ORD100799,2024-11-14,2024-11-22,P1085,Fashion,Supplier C,1305.2,2,North,Chennai,Ads,No,,
+ORD100800,2024-03-17,2024-03-19,P1058,Fashion,Supplier A,714.61,4,East,Bangalore,Email,Yes,2024-03-21,Size Issue
+ORD100801,2024-06-22,2024-06-24,P1026,Electronics,Supplier B,807.68,3,West,Mumbai,Social Media,No,,
+ORD100802,2024-12-23,2024-12-25,P1176,Electronics,Supplier B,275.88,1,West,Chennai,Organic,No,,
+ORD100803,2024-11-16,2024-11-24,P1160,Electronics,Supplier D,475.28,3,East,Bangalore,Ads,No,,
+ORD100804,2024-03-31,2024-04-03,P1097,Fashion,Supplier A,353.07,1,East,Chennai,Email,No,,
+ORD100805,2024-08-25,2024-09-01,P1104,Home,Supplier B,317.22,1,West,Delhi,Email,No,,
+ORD100806,2024-09-20,2024-09-23,P1098,Fashion,Supplier B,960.56,2,East,Delhi,Ads,Yes,2024-10-02,Wrong Item
+ORD100807,2024-06-27,2024-07-03,P1128,Fashion,Supplier A,392.76,2,East,Delhi,Social Media,Yes,2024-07-05,Late Delivery
+ORD100808,2024-07-27,2024-08-04,P1148,Fashion,Supplier B,951.7,2,South,Hyderabad,Organic,No,,
+ORD100809,2024-03-13,2024-03-15,P1054,Fashion,Supplier C,97.1,4,East,Mumbai,Email,Yes,2024-03-28,No Longer Needed
+ORD100810,2024-04-16,2024-04-23,P1005,Home,Supplier B,221.24,4,North,Delhi,Organic,No,,
+ORD100811,2024-12-10,2024-12-17,P1196,Electronics,Supplier A,419.06,2,North,Mumbai,Organic,No,,
+ORD100812,2024-10-21,2024-10-25,P1094,Sports,Supplier C,899.6,4,North,Delhi,Email,Yes,2024-10-26,No Longer Needed
+ORD100813,2024-10-10,2024-10-16,P1132,Electronics,Supplier C,1017.0,3,West,Hyderabad,Ads,No,,
+ORD100814,2024-12-18,2024-12-27,P1101,Electronics,Supplier B,669.65,3,North,Chennai,Email,No,,
+ORD100815,2024-06-30,2024-07-09,P1002,Sports,Supplier D,674.23,4,South,Bangalore,Email,No,,
+ORD100816,2024-02-06,2024-02-13,P1180,Fashion,Supplier C,1089.53,4,North,Bangalore,Social Media,No,,
+ORD100817,2024-05-16,2024-05-24,P1022,Home,Supplier A,33.57,3,West,Delhi,Organic,No,,
+ORD100818,2024-12-03,2024-12-05,P1052,Home,Supplier D,518.22,1,South,Bangalore,Ads,No,,
+ORD100819,2024-02-25,2024-02-27,P1164,Electronics,Supplier D,1229.87,3,North,Delhi,Organic,Yes,2024-03-08,No Longer Needed
+ORD100820,2024-07-05,2024-07-12,P1082,Sports,Supplier C,908.8,3,South,Delhi,Email,No,,
+ORD100821,2024-12-06,2024-12-09,P1144,Beauty,Supplier B,512.47,4,South,Kolkata,Ads,No,,
+ORD100822,2024-09-14,2024-09-20,P1084,Fashion,Supplier D,1359.23,3,West,Kolkata,Ads,Yes,2024-09-22,Wrong Item
+ORD100823,2024-02-27,2024-02-29,P1077,Electronics,Supplier B,1161.21,4,West,Kolkata,Ads,No,,
+ORD100824,2024-12-28,2025-01-04,P1109,Home,Supplier C,404.69,4,South,Mumbai,Ads,Yes,2025-01-16,Not as Described
+ORD100825,2024-05-02,2024-05-04,P1000,Sports,Supplier A,971.48,2,North,Kolkata,Social Media,No,,
+ORD100826,2024-07-06,2024-07-15,P1050,Sports,Supplier D,897.67,3,West,Delhi,Ads,No,,
+ORD100827,2024-08-17,2024-08-24,P1172,Electronics,Supplier A,607.77,1,South,Hyderabad,Email,No,,
+ORD100828,2024-06-16,2024-06-22,P1003,Beauty,Supplier B,556.76,2,East,Hyderabad,Social Media,Yes,2024-06-29,Wrong Item
+ORD100829,2024-04-23,2024-04-30,P1189,Home,Supplier B,521.91,4,East,Chennai,Email,No,,
+ORD100830,2024-09-08,2024-09-12,P1192,Electronics,Supplier A,929.56,4,West,Kolkata,Email,No,,
+ORD100831,2024-04-16,2024-04-23,P1112,Beauty,Supplier C,669.19,1,North,Hyderabad,Organic,No,,
+ORD100832,2024-02-06,2024-02-13,P1031,Sports,Supplier C,1249.48,4,East,Kolkata,Ads,No,,
+ORD100833,2024-11-30,2024-12-08,P1033,Fashion,Supplier D,1007.71,3,East,Chennai,Ads,Yes,2024-12-16,No Longer Needed
+ORD100834,2024-04-01,2024-04-10,P1091,Home,Supplier D,114.2,2,East,Hyderabad,Email,No,,
+ORD100835,2024-01-18,2024-01-24,P1094,Home,Supplier C,963.85,4,North,Delhi,Ads,No,,
+ORD100836,2024-12-19,2024-12-27,P1071,Beauty,Supplier C,414.01,4,North,Mumbai,Social Media,No,,
+ORD100837,2024-03-03,2024-03-10,P1038,Electronics,Supplier A,893.29,1,West,Kolkata,Organic,Yes,2024-03-15,Late Delivery
+ORD100838,2024-05-29,2024-06-04,P1153,Sports,Supplier B,1023.4,3,West,Hyderabad,Ads,Yes,2024-06-10,Size Issue
+ORD100839,2024-05-18,2024-05-22,P1161,Beauty,Supplier B,353.94,4,East,Hyderabad,Ads,No,,
+ORD100840,2024-07-04,2024-07-10,P1181,Fashion,Supplier D,690.72,1,North,Chennai,Social Media,No,,
+ORD100841,2024-07-03,2024-07-05,P1117,Fashion,Supplier C,293.58,4,South,Delhi,Organic,No,,
+ORD100842,2024-07-23,2024-07-31,P1002,Fashion,Supplier A,87.98,1,East,Bangalore,Social Media,No,,
+ORD100843,2024-09-16,2024-09-22,P1122,Beauty,Supplier D,573.93,1,West,Hyderabad,Email,No,,
+ORD100844,2024-08-01,2024-08-10,P1049,Sports,Supplier A,550.79,3,North,Mumbai,Email,No,,
+ORD100845,2024-09-12,2024-09-16,P1011,Home,Supplier C,1493.27,4,West,Chennai,Ads,No,,
+ORD100846,2024-05-14,2024-05-19,P1192,Electronics,Supplier C,675.07,3,West,Hyderabad,Organic,No,,
+ORD100847,2024-03-01,2024-03-08,P1053,Home,Supplier C,507.02,1,North,Hyderabad,Email,No,,
+ORD100848,2024-12-28,2025-01-03,P1132,Sports,Supplier B,874.91,2,East,Chennai,Social Media,No,,
+ORD100849,2024-11-05,2024-11-12,P1056,Home,Supplier C,142.26,4,North,Chennai,Email,No,,
+ORD100850,2024-03-28,2024-03-31,P1144,Beauty,Supplier D,1442.88,2,East,Kolkata,Email,Yes,2024-04-12,Size Issue
+ORD100851,2024-11-19,2024-11-21,P1111,Fashion,Supplier B,956.09,4,West,Hyderabad,Social Media,No,,
+ORD100852,2024-07-25,2024-08-02,P1046,Sports,Supplier A,1134.71,3,North,Bangalore,Ads,No,,
+ORD100853,2024-05-08,2024-05-10,P1150,Sports,Supplier D,264.01,3,South,Mumbai,Organic,No,,
+ORD100854,2024-11-06,2024-11-09,P1084,Home,Supplier D,620.12,3,East,Delhi,Ads,No,,
+ORD100855,2024-01-03,2024-01-06,P1141,Beauty,Supplier A,639.81,3,South,Delhi,Social Media,No,,
+ORD100856,2024-08-29,2024-09-06,P1065,Home,Supplier B,1234.49,3,East,Bangalore,Email,No,,
+ORD100857,2024-04-30,2024-05-06,P1074,Home,Supplier D,11.84,2,North,Chennai,Organic,No,,
+ORD100858,2024-04-11,2024-04-14,P1178,Sports,Supplier D,458.27,3,South,Chennai,Ads,No,,
+ORD100859,2024-02-07,2024-02-12,P1102,Home,Supplier D,1472.04,1,North,Chennai,Social Media,No,,
+ORD100860,2024-12-06,2024-12-13,P1165,Fashion,Supplier B,717.58,1,East,Hyderabad,Email,No,,
+ORD100861,2024-05-12,2024-05-19,P1191,Home,Supplier B,579.96,2,East,Chennai,Email,No,,
+ORD100862,2024-07-20,2024-07-24,P1037,Fashion,Supplier B,188.55,4,East,Chennai,Ads,No,,
+ORD100863,2024-12-13,2024-12-22,P1049,Sports,Supplier D,1461.51,1,East,Hyderabad,Social Media,No,,
+ORD100864,2024-01-21,2024-01-24,P1097,Beauty,Supplier C,39.84,4,West,Hyderabad,Email,Yes,2024-01-25,Wrong Item
+ORD100865,2024-08-29,2024-09-01,P1081,Fashion,Supplier A,1108.4,2,East,Bangalore,Email,Yes,2024-09-07,No Longer Needed
+ORD100866,2024-04-18,2024-04-23,P1029,Beauty,Supplier C,1155.21,4,South,Kolkata,Organic,Yes,2024-05-05,Damaged
+ORD100867,2024-10-29,2024-10-31,P1078,Beauty,Supplier B,373.05,4,East,Hyderabad,Email,No,,
+ORD100868,2024-03-24,2024-03-26,P1090,Fashion,Supplier D,1010.62,4,North,Mumbai,Ads,Yes,2024-04-03,Wrong Item
+ORD100869,2024-03-23,2024-03-30,P1178,Sports,Supplier D,148.46,4,West,Chennai,Social Media,No,,
+ORD100870,2024-10-17,2024-10-24,P1190,Electronics,Supplier C,393.0,2,South,Kolkata,Social Media,No,,
+ORD100871,2024-03-09,2024-03-15,P1051,Beauty,Supplier C,1183.97,1,West,Delhi,Organic,Yes,2024-03-28,No Longer Needed
+ORD100872,2024-05-08,2024-05-16,P1165,Beauty,Supplier A,1298.38,3,West,Bangalore,Social Media,No,,
+ORD100873,2024-07-14,2024-07-23,P1078,Sports,Supplier D,916.64,4,West,Kolkata,Ads,Yes,2024-07-26,Not as Described
+ORD100874,2024-05-19,2024-05-24,P1029,Sports,Supplier C,765.19,1,North,Hyderabad,Email,No,,
+ORD100875,2024-10-09,2024-10-17,P1105,Home,Supplier A,247.36,1,West,Chennai,Organic,No,,
+ORD100876,2024-11-07,2024-11-15,P1050,Sports,Supplier B,104.03,2,West,Chennai,Social Media,No,,
+ORD100877,2024-08-21,2024-08-25,P1080,Beauty,Supplier C,185.3,1,East,Chennai,Organic,No,,
+ORD100878,2024-01-23,2024-01-31,P1132,Fashion,Supplier B,348.76,2,North,Kolkata,Organic,No,,
+ORD100879,2024-06-01,2024-06-05,P1028,Electronics,Supplier A,519.1,4,South,Chennai,Social Media,No,,
+ORD100880,2024-10-03,2024-10-11,P1131,Home,Supplier B,577.56,4,South,Hyderabad,Organic,Yes,2024-10-22,Size Issue
+ORD100881,2024-03-01,2024-03-06,P1137,Fashion,Supplier D,526.02,3,South,Kolkata,Social Media,Yes,2024-03-07,Size Issue
+ORD100882,2024-11-14,2024-11-18,P1183,Electronics,Supplier D,366.19,3,North,Chennai,Ads,No,,
+ORD100883,2024-02-21,2024-02-23,P1144,Electronics,Supplier B,769.49,3,South,Delhi,Social Media,No,,
+ORD100884,2024-12-09,2024-12-13,P1073,Electronics,Supplier D,1239.68,1,North,Delhi,Email,No,,
+ORD100885,2024-06-01,2024-06-05,P1016,Fashion,Supplier A,426.76,4,East,Mumbai,Social Media,Yes,2024-06-16,Size Issue
+ORD100886,2024-08-24,2024-08-29,P1083,Home,Supplier D,1414.16,2,East,Chennai,Email,No,,
+ORD100887,2024-11-06,2024-11-11,P1068,Home,Supplier B,1311.27,3,North,Chennai,Organic,No,,
+ORD100888,2024-10-28,2024-11-01,P1033,Electronics,Supplier B,251.03,2,South,Kolkata,Social Media,No,,
+ORD100889,2024-02-01,2024-02-10,P1005,Fashion,Supplier B,1181.55,2,North,Kolkata,Email,No,,
+ORD100890,2024-02-24,2024-02-27,P1052,Electronics,Supplier C,866.14,3,North,Chennai,Social Media,No,,
+ORD100891,2024-12-17,2024-12-26,P1193,Sports,Supplier B,854.2,4,West,Mumbai,Social Media,No,,
+ORD100892,2024-02-05,2024-02-10,P1125,Home,Supplier A,592.65,3,North,Chennai,Social Media,No,,
+ORD100893,2024-04-19,2024-04-28,P1042,Beauty,Supplier D,756.72,2,West,Hyderabad,Ads,No,,
+ORD100894,2024-06-25,2024-07-04,P1114,Electronics,Supplier D,601.8,3,East,Kolkata,Email,No,,
+ORD100895,2024-12-27,2025-01-02,P1110,Sports,Supplier C,814.2,2,West,Chennai,Ads,No,,
+ORD100896,2024-11-09,2024-11-15,P1150,Home,Supplier C,945.65,2,North,Kolkata,Ads,No,,
+ORD100897,2024-10-21,2024-10-23,P1182,Fashion,Supplier A,1014.71,3,East,Chennai,Email,No,,
+ORD100898,2024-12-01,2024-12-09,P1079,Home,Supplier B,803.4,1,West,Bangalore,Social Media,No,,
+ORD100899,2024-04-06,2024-04-10,P1094,Fashion,Supplier C,1084.92,3,North,Kolkata,Ads,No,,
+ORD100900,2024-07-31,2024-08-03,P1117,Fashion,Supplier D,220.5,1,East,Mumbai,Ads,No,,
+ORD100901,2024-11-12,2024-11-14,P1143,Electronics,Supplier C,325.85,2,West,Bangalore,Ads,No,,
+ORD100902,2024-05-16,2024-05-20,P1007,Electronics,Supplier C,1229.92,2,North,Hyderabad,Social Media,No,,
+ORD100903,2024-01-06,2024-01-15,P1131,Home,Supplier B,490.57,1,North,Chennai,Ads,No,,
+ORD100904,2024-04-18,2024-04-23,P1103,Sports,Supplier C,44.11,2,South,Hyderabad,Organic,No,,
+ORD100905,2024-02-04,2024-02-10,P1131,Home,Supplier A,239.15,1,South,Kolkata,Email,No,,
+ORD100906,2024-02-08,2024-02-15,P1183,Beauty,Supplier D,343.19,1,West,Bangalore,Organic,No,,
+ORD100907,2024-05-29,2024-06-01,P1024,Fashion,Supplier B,1436.41,2,West,Hyderabad,Social Media,No,,
+ORD100908,2024-04-27,2024-05-06,P1194,Fashion,Supplier D,863.83,4,West,Mumbai,Ads,No,,
+ORD100909,2024-09-17,2024-09-24,P1095,Electronics,Supplier A,1399.77,1,North,Kolkata,Email,No,,
+ORD100910,2024-03-27,2024-04-02,P1194,Sports,Supplier A,866.99,3,West,Bangalore,Ads,No,,
+ORD100911,2024-03-16,2024-03-25,P1154,Electronics,Supplier C,724.24,3,North,Hyderabad,Social Media,No,,
+ORD100912,2024-11-08,2024-11-16,P1092,Beauty,Supplier C,477.45,2,West,Bangalore,Email,No,,
+ORD100913,2024-08-01,2024-08-09,P1159,Home,Supplier C,913.49,4,North,Bangalore,Organic,No,,
+ORD100914,2024-10-11,2024-10-18,P1177,Home,Supplier D,217.41,2,North,Hyderabad,Email,No,,
+ORD100915,2024-08-26,2024-08-31,P1060,Sports,Supplier A,1348.41,4,South,Delhi,Ads,No,,
+ORD100916,2024-06-13,2024-06-22,P1121,Electronics,Supplier B,1245.71,1,East,Chennai,Email,Yes,2024-06-26,Damaged
+ORD100917,2024-03-27,2024-03-31,P1050,Electronics,Supplier C,483.12,1,North,Kolkata,Social Media,No,,
+ORD100918,2024-05-20,2024-05-29,P1146,Beauty,Supplier D,1429.67,1,West,Kolkata,Social Media,No,,
+ORD100919,2024-06-08,2024-06-13,P1020,Home,Supplier C,1239.55,1,South,Kolkata,Email,No,,
+ORD100920,2024-02-15,2024-02-24,P1004,Electronics,Supplier A,1002.8,3,West,Bangalore,Social Media,Yes,2024-02-25,No Longer Needed
+ORD100921,2024-04-21,2024-04-28,P1091,Sports,Supplier B,191.43,3,West,Hyderabad,Social Media,No,,
+ORD100922,2024-02-14,2024-02-19,P1169,Home,Supplier A,722.57,2,North,Chennai,Social Media,No,,
+ORD100923,2024-09-03,2024-09-09,P1060,Beauty,Supplier D,764.1,4,North,Mumbai,Organic,No,,
+ORD100924,2024-04-13,2024-04-16,P1021,Sports,Supplier C,356.5,1,East,Kolkata,Ads,No,,
+ORD100925,2024-03-25,2024-03-30,P1148,Fashion,Supplier A,129.15,1,North,Hyderabad,Social Media,Yes,2024-04-13,No Longer Needed
+ORD100926,2024-05-13,2024-05-22,P1069,Beauty,Supplier D,1167.32,4,North,Chennai,Email,No,,
+ORD100927,2024-04-17,2024-04-23,P1000,Sports,Supplier C,191.83,4,East,Chennai,Social Media,Yes,2024-05-01,No Longer Needed
+ORD100928,2024-01-18,2024-01-21,P1132,Electronics,Supplier B,895.49,2,West,Delhi,Organic,No,,
+ORD100929,2024-04-03,2024-04-11,P1011,Fashion,Supplier A,1405.31,4,East,Hyderabad,Email,No,,
+ORD100930,2024-05-29,2024-06-02,P1089,Beauty,Supplier C,1315.4,1,East,Kolkata,Ads,No,,
+ORD100931,2024-09-02,2024-09-09,P1045,Electronics,Supplier C,423.85,1,East,Bangalore,Email,Yes,2024-09-14,No Longer Needed
+ORD100932,2024-10-15,2024-10-24,P1033,Fashion,Supplier C,1278.66,1,South,Chennai,Email,Yes,2024-10-25,Damaged
+ORD100933,2024-07-27,2024-08-05,P1176,Home,Supplier C,10.5,1,West,Chennai,Email,No,,
+ORD100934,2024-05-05,2024-05-13,P1077,Electronics,Supplier A,36.35,1,South,Mumbai,Email,No,,
+ORD100935,2024-08-22,2024-08-26,P1044,Sports,Supplier C,907.8,2,South,Delhi,Social Media,No,,
+ORD100936,2024-05-01,2024-05-09,P1154,Beauty,Supplier D,553.55,1,North,Chennai,Ads,No,,
+ORD100937,2024-05-17,2024-05-19,P1072,Fashion,Supplier A,585.83,2,East,Chennai,Social Media,No,,
+ORD100938,2024-04-24,2024-05-02,P1025,Electronics,Supplier C,851.02,1,East,Bangalore,Organic,Yes,2024-05-16,Late Delivery
+ORD100939,2024-06-10,2024-06-16,P1046,Home,Supplier A,295.76,3,South,Bangalore,Organic,No,,
+ORD100940,2024-07-19,2024-07-22,P1120,Beauty,Supplier D,325.52,3,North,Mumbai,Email,No,,
+ORD100941,2024-08-21,2024-08-30,P1055,Beauty,Supplier D,732.06,3,North,Hyderabad,Social Media,No,,
+ORD100942,2024-01-28,2024-02-05,P1093,Electronics,Supplier A,1133.84,3,North,Mumbai,Social Media,No,,
+ORD100943,2024-01-11,2024-01-20,P1106,Home,Supplier C,933.05,2,West,Mumbai,Ads,Yes,2024-01-28,Wrong Item
+ORD100944,2024-07-24,2024-07-29,P1062,Fashion,Supplier C,453.06,2,South,Bangalore,Ads,No,,
+ORD100945,2024-06-15,2024-06-19,P1047,Electronics,Supplier D,651.2,4,West,Hyderabad,Ads,No,,
+ORD100946,2024-09-03,2024-09-11,P1060,Fashion,Supplier C,264.29,1,North,Bangalore,Social Media,No,,
+ORD100947,2024-02-16,2024-02-19,P1080,Beauty,Supplier D,121.2,3,North,Delhi,Ads,No,,
+ORD100948,2024-09-02,2024-09-08,P1025,Fashion,Supplier C,1176.22,2,North,Kolkata,Ads,No,,
+ORD100949,2024-05-06,2024-05-08,P1035,Home,Supplier D,405.43,1,East,Kolkata,Ads,No,,
+ORD100950,2024-05-26,2024-06-04,P1000,Sports,Supplier B,274.87,1,South,Delhi,Email,No,,
+ORD100951,2024-04-27,2024-05-01,P1007,Home,Supplier C,1040.51,2,East,Kolkata,Organic,No,,
+ORD100952,2024-05-31,2024-06-07,P1112,Fashion,Supplier C,930.9,3,West,Hyderabad,Organic,No,,
+ORD100953,2024-03-12,2024-03-15,P1098,Electronics,Supplier C,953.45,4,East,Bangalore,Social Media,Yes,2024-03-24,Wrong Item
+ORD100954,2024-12-28,2025-01-04,P1179,Beauty,Supplier A,351.05,1,South,Kolkata,Social Media,No,,
+ORD100955,2024-05-16,2024-05-19,P1046,Sports,Supplier C,356.64,4,East,Hyderabad,Email,No,,
+ORD100956,2024-06-23,2024-06-26,P1126,Electronics,Supplier A,339.0,3,North,Bangalore,Organic,No,,
+ORD100957,2024-10-15,2024-10-21,P1055,Electronics,Supplier A,268.89,3,West,Hyderabad,Ads,No,,
+ORD100958,2024-01-19,2024-01-25,P1013,Home,Supplier D,987.03,4,West,Delhi,Ads,No,,
+ORD100959,2024-07-13,2024-07-19,P1027,Fashion,Supplier A,1273.54,3,North,Mumbai,Social Media,No,,
+ORD100960,2024-11-25,2024-12-03,P1077,Home,Supplier A,1089.23,1,North,Delhi,Organic,Yes,2024-12-13,No Longer Needed
+ORD100961,2024-06-23,2024-06-28,P1129,Fashion,Supplier B,1190.22,4,North,Kolkata,Social Media,Yes,2024-06-30,Not as Described
+ORD100962,2024-12-19,2024-12-22,P1108,Home,Supplier C,613.15,3,South,Bangalore,Social Media,No,,
+ORD100963,2024-05-20,2024-05-24,P1153,Electronics,Supplier A,984.57,4,East,Hyderabad,Ads,No,,
+ORD100964,2024-09-02,2024-09-09,P1013,Beauty,Supplier C,537.81,1,West,Kolkata,Ads,No,,
+ORD100965,2024-04-02,2024-04-08,P1186,Fashion,Supplier A,793.0,3,East,Kolkata,Organic,Yes,2024-04-17,Size Issue
+ORD100966,2024-08-26,2024-09-03,P1055,Sports,Supplier D,727.64,1,North,Mumbai,Social Media,No,,
+ORD100967,2024-07-23,2024-07-29,P1114,Sports,Supplier B,273.56,3,North,Kolkata,Email,No,,
+ORD100968,2024-02-17,2024-02-24,P1006,Electronics,Supplier A,586.75,2,East,Mumbai,Organic,No,,
+ORD100969,2024-09-01,2024-09-08,P1002,Home,Supplier C,1446.1,3,West,Bangalore,Social Media,No,,
+ORD100970,2024-11-15,2024-11-24,P1110,Home,Supplier D,380.38,4,South,Bangalore,Organic,Yes,2024-12-02,Damaged
+ORD100971,2024-11-12,2024-11-15,P1150,Electronics,Supplier C,209.37,3,East,Hyderabad,Organic,No,,
+ORD100972,2024-10-21,2024-10-27,P1106,Sports,Supplier D,633.69,1,North,Mumbai,Organic,No,,
+ORD100973,2024-05-07,2024-05-14,P1017,Sports,Supplier B,1187.6,1,North,Delhi,Email,Yes,2024-05-21,Not as Described
+ORD100974,2024-12-09,2024-12-14,P1037,Home,Supplier D,877.4,3,South,Bangalore,Email,Yes,2024-12-17,Not as Described
+ORD100975,2024-10-08,2024-10-13,P1114,Fashion,Supplier C,1024.65,4,East,Hyderabad,Ads,No,,
+ORD100976,2024-01-17,2024-01-23,P1014,Beauty,Supplier C,292.65,2,South,Delhi,Ads,No,,
+ORD100977,2024-03-11,2024-03-19,P1191,Fashion,Supplier A,932.23,4,South,Bangalore,Social Media,Yes,2024-03-21,No Longer Needed
+ORD100978,2024-09-25,2024-10-02,P1118,Sports,Supplier D,492.02,2,West,Bangalore,Organic,No,,
+ORD100979,2024-11-20,2024-11-29,P1027,Fashion,Supplier C,1253.11,1,West,Hyderabad,Social Media,No,,
+ORD100980,2024-10-08,2024-10-11,P1038,Beauty,Supplier A,947.66,4,North,Hyderabad,Ads,No,,
+ORD100981,2024-10-31,2024-11-03,P1184,Fashion,Supplier B,306.3,2,East,Chennai,Email,No,,
+ORD100982,2024-01-07,2024-01-15,P1016,Fashion,Supplier C,106.28,3,West,Kolkata,Ads,No,,
+ORD100983,2024-11-09,2024-11-18,P1085,Fashion,Supplier A,73.52,1,North,Kolkata,Social Media,No,,
+ORD100984,2024-10-31,2024-11-03,P1125,Fashion,Supplier C,563.4,3,East,Delhi,Ads,No,,
+ORD100985,2024-04-12,2024-04-21,P1043,Electronics,Supplier D,406.12,1,North,Kolkata,Social Media,No,,
+ORD100986,2024-11-04,2024-11-06,P1024,Sports,Supplier A,972.67,4,West,Delhi,Social Media,No,,
+ORD100987,2024-07-11,2024-07-17,P1144,Beauty,Supplier D,754.01,4,North,Bangalore,Social Media,No,,
+ORD100988,2024-08-28,2024-08-31,P1012,Sports,Supplier B,406.37,1,East,Chennai,Social Media,No,,
+ORD100989,2024-03-02,2024-03-07,P1024,Electronics,Supplier D,232.36,1,East,Chennai,Ads,No,,
+ORD100990,2024-01-17,2024-01-24,P1067,Electronics,Supplier A,199.53,1,North,Bangalore,Social Media,Yes,2024-01-31,Damaged
+ORD100991,2024-06-19,2024-06-28,P1137,Electronics,Supplier C,1298.34,4,East,Hyderabad,Social Media,No,,
+ORD100992,2024-01-25,2024-02-03,P1066,Electronics,Supplier A,372.78,2,North,Mumbai,Organic,No,,
+ORD100993,2024-09-07,2024-09-11,P1108,Fashion,Supplier D,981.05,3,East,Mumbai,Social Media,No,,
+ORD100994,2024-09-09,2024-09-17,P1145,Sports,Supplier D,1217.92,3,North,Kolkata,Ads,No,,
+ORD100995,2024-07-25,2024-07-29,P1110,Home,Supplier C,924.98,4,North,Hyderabad,Social Media,No,,
+ORD100996,2024-01-29,2024-02-01,P1110,Beauty,Supplier B,1290.75,3,North,Delhi,Email,No,,
+ORD100997,2024-04-26,2024-04-30,P1033,Electronics,Supplier A,594.67,1,South,Chennai,Email,No,,
+ORD100998,2024-10-08,2024-10-12,P1110,Sports,Supplier C,1434.77,2,East,Kolkata,Social Media,No,,
+ORD100999,2024-05-23,2024-05-25,P1007,Electronics,Supplier C,208.39,3,West,Bangalore,Email,Yes,2024-05-30,Wrong Item
+ORD101000,2024-01-25,2024-02-03,P1167,Electronics,Supplier C,162.2,2,North,Hyderabad,Email,No,,
+ORD101001,2024-11-05,2024-11-10,P1112,Electronics,Supplier A,991.45,1,South,Chennai,Ads,No,,
+ORD101002,2024-06-04,2024-06-12,P1082,Electronics,Supplier A,1414.82,3,West,Delhi,Organic,No,,
+ORD101003,2024-03-13,2024-03-18,P1041,Electronics,Supplier A,1215.24,4,North,Delhi,Email,No,,
+ORD101004,2024-04-29,2024-05-01,P1168,Beauty,Supplier B,123.86,2,West,Mumbai,Email,Yes,2024-05-07,Size Issue
+ORD101005,2024-11-07,2024-11-09,P1100,Sports,Supplier C,426.26,1,South,Kolkata,Organic,No,,
+ORD101006,2024-11-16,2024-11-20,P1005,Electronics,Supplier D,1396.18,2,West,Bangalore,Organic,Yes,2024-11-24,Wrong Item
+ORD101007,2024-04-02,2024-04-08,P1179,Electronics,Supplier D,387.06,3,North,Chennai,Email,Yes,2024-04-10,Not as Described
+ORD101008,2024-03-26,2024-04-04,P1025,Electronics,Supplier C,1173.94,3,West,Delhi,Social Media,Yes,2024-04-13,Size Issue
+ORD101009,2024-12-01,2024-12-08,P1063,Electronics,Supplier D,1239.45,4,West,Chennai,Email,No,,
+ORD101010,2024-12-29,2025-01-07,P1186,Fashion,Supplier B,748.22,1,North,Bangalore,Social Media,No,,
+ORD101011,2024-04-27,2024-05-04,P1183,Fashion,Supplier B,585.66,1,South,Chennai,Social Media,No,,
+ORD101012,2024-08-20,2024-08-24,P1058,Home,Supplier A,680.69,4,South,Kolkata,Social Media,No,,
+ORD101013,2024-07-17,2024-07-24,P1108,Electronics,Supplier A,348.18,4,West,Mumbai,Organic,Yes,2024-07-27,Late Delivery
+ORD101014,2024-07-24,2024-07-26,P1197,Home,Supplier A,1335.19,1,East,Chennai,Email,No,,
+ORD101015,2024-12-04,2024-12-09,P1120,Beauty,Supplier A,681.42,2,West,Hyderabad,Email,No,,
+ORD101016,2024-05-26,2024-06-02,P1032,Home,Supplier A,1324.86,2,East,Mumbai,Ads,No,,
+ORD101017,2024-09-27,2024-10-06,P1180,Sports,Supplier D,167.48,4,West,Bangalore,Organic,Yes,2024-10-18,Not as Described
+ORD101018,2024-05-18,2024-05-26,P1149,Fashion,Supplier D,1482.53,2,South,Mumbai,Ads,No,,
+ORD101019,2024-06-29,2024-07-03,P1020,Fashion,Supplier A,670.48,1,West,Chennai,Ads,No,,
+ORD101020,2024-01-30,2024-02-05,P1197,Electronics,Supplier B,81.27,3,West,Chennai,Social Media,No,,
+ORD101021,2024-02-26,2024-03-01,P1069,Electronics,Supplier D,66.65,3,East,Hyderabad,Organic,No,,
+ORD101022,2024-08-19,2024-08-22,P1111,Beauty,Supplier B,1121.85,2,South,Delhi,Ads,Yes,2024-09-05,Wrong Item
+ORD101023,2024-05-25,2024-05-29,P1003,Beauty,Supplier B,991.96,4,East,Hyderabad,Email,No,,
+ORD101024,2024-02-17,2024-02-19,P1093,Sports,Supplier C,1205.17,4,West,Chennai,Ads,No,,
+ORD101025,2024-07-12,2024-07-17,P1074,Electronics,Supplier C,167.0,4,North,Mumbai,Organic,No,,
+ORD101026,2024-08-11,2024-08-16,P1189,Electronics,Supplier A,63.0,4,West,Hyderabad,Email,No,,
+ORD101027,2024-05-15,2024-05-23,P1061,Beauty,Supplier B,767.78,4,West,Hyderabad,Email,Yes,2024-05-30,Wrong Item
+ORD101028,2024-01-22,2024-01-29,P1093,Beauty,Supplier D,587.52,2,East,Delhi,Email,No,,
+ORD101029,2024-01-06,2024-01-08,P1094,Beauty,Supplier C,698.3,3,North,Chennai,Social Media,No,,
+ORD101030,2024-07-22,2024-07-25,P1151,Fashion,Supplier C,1487.47,3,North,Chennai,Email,Yes,2024-08-08,No Longer Needed
+ORD101031,2024-08-26,2024-08-28,P1054,Home,Supplier B,1456.42,2,East,Bangalore,Social Media,No,,
+ORD101032,2024-07-03,2024-07-07,P1136,Home,Supplier C,1414.05,4,South,Delhi,Social Media,No,,
+ORD101033,2024-12-25,2024-12-27,P1130,Electronics,Supplier C,1177.93,2,North,Bangalore,Ads,No,,
+ORD101034,2024-10-18,2024-10-20,P1030,Fashion,Supplier D,538.71,3,North,Bangalore,Ads,No,,
+ORD101035,2024-11-30,2024-12-08,P1039,Beauty,Supplier B,624.08,1,East,Bangalore,Email,No,,
+ORD101036,2024-08-07,2024-08-10,P1035,Electronics,Supplier C,828.93,2,South,Kolkata,Organic,No,,
+ORD101037,2024-04-25,2024-04-29,P1151,Fashion,Supplier B,1247.5,4,South,Bangalore,Email,No,,
+ORD101038,2024-11-08,2024-11-14,P1005,Sports,Supplier C,112.38,3,West,Hyderabad,Ads,No,,
+ORD101039,2024-02-18,2024-02-26,P1065,Fashion,Supplier D,642.2,3,West,Mumbai,Email,Yes,2024-03-05,Wrong Item
+ORD101040,2024-06-21,2024-06-27,P1074,Electronics,Supplier B,133.1,3,East,Hyderabad,Ads,No,,
+ORD101041,2024-03-22,2024-03-30,P1003,Home,Supplier C,776.84,3,South,Hyderabad,Email,No,,
+ORD101042,2024-11-17,2024-11-22,P1078,Beauty,Supplier D,1349.36,4,East,Chennai,Organic,Yes,2024-11-24,Damaged
+ORD101043,2024-11-28,2024-12-07,P1133,Sports,Supplier C,1175.9,1,West,Kolkata,Email,No,,
+ORD101044,2024-02-14,2024-02-22,P1117,Fashion,Supplier B,349.49,3,East,Bangalore,Organic,No,,
+ORD101045,2024-11-30,2024-12-07,P1112,Electronics,Supplier C,1464.23,2,East,Chennai,Organic,No,,
+ORD101046,2024-01-20,2024-01-22,P1093,Electronics,Supplier B,1004.35,1,North,Delhi,Email,Yes,2024-02-05,Not as Described
+ORD101047,2024-08-08,2024-08-13,P1178,Beauty,Supplier B,25.54,3,North,Delhi,Organic,Yes,2024-08-19,Size Issue
+ORD101048,2024-05-02,2024-05-05,P1061,Electronics,Supplier C,390.57,1,North,Chennai,Organic,Yes,2024-05-16,Wrong Item
+ORD101049,2024-08-21,2024-08-27,P1184,Electronics,Supplier D,398.46,2,West,Mumbai,Ads,No,,
+ORD101050,2024-08-08,2024-08-17,P1193,Beauty,Supplier A,113.19,3,East,Chennai,Ads,Yes,2024-08-25,No Longer Needed
+ORD101051,2024-11-18,2024-11-27,P1078,Sports,Supplier D,1440.14,2,North,Chennai,Organic,No,,
+ORD101052,2024-12-04,2024-12-12,P1135,Home,Supplier D,722.6,4,North,Kolkata,Social Media,Yes,2024-12-19,No Longer Needed
+ORD101053,2024-01-03,2024-01-05,P1025,Home,Supplier C,1344.76,3,North,Delhi,Email,No,,
+ORD101054,2024-06-30,2024-07-03,P1178,Fashion,Supplier D,490.1,3,West,Delhi,Organic,No,,
+ORD101055,2024-07-24,2024-07-31,P1172,Sports,Supplier D,196.6,3,West,Bangalore,Email,No,,
+ORD101056,2024-11-15,2024-11-18,P1043,Fashion,Supplier A,716.76,3,East,Hyderabad,Ads,Yes,2024-11-29,Wrong Item
+ORD101057,2024-02-09,2024-02-11,P1132,Home,Supplier D,179.8,4,East,Chennai,Email,No,,
+ORD101058,2024-02-28,2024-03-06,P1069,Beauty,Supplier A,734.16,3,East,Chennai,Organic,No,,
+ORD101059,2024-03-02,2024-03-05,P1153,Electronics,Supplier C,1381.24,1,North,Mumbai,Organic,No,,
+ORD101060,2024-05-11,2024-05-18,P1117,Home,Supplier A,785.94,3,South,Delhi,Organic,No,,
+ORD101061,2024-02-29,2024-03-08,P1067,Sports,Supplier B,928.58,4,West,Mumbai,Organic,Yes,2024-03-11,Damaged
+ORD101062,2024-11-26,2024-12-04,P1018,Home,Supplier B,243.39,3,North,Kolkata,Social Media,No,,
+ORD101063,2024-05-01,2024-05-03,P1019,Sports,Supplier A,75.17,1,North,Bangalore,Social Media,No,,
+ORD101064,2024-04-16,2024-04-18,P1112,Sports,Supplier B,175.1,4,East,Mumbai,Social Media,Yes,2024-04-19,No Longer Needed
+ORD101065,2024-04-05,2024-04-12,P1139,Sports,Supplier C,901.81,4,East,Delhi,Organic,No,,
+ORD101066,2024-12-12,2024-12-16,P1046,Fashion,Supplier B,151.57,1,North,Kolkata,Social Media,No,,
+ORD101067,2024-08-22,2024-08-27,P1000,Beauty,Supplier A,570.23,1,West,Chennai,Email,No,,
+ORD101068,2024-03-02,2024-03-11,P1089,Home,Supplier C,829.64,1,West,Kolkata,Organic,No,,
+ORD101069,2024-09-12,2024-09-15,P1141,Beauty,Supplier B,589.09,1,North,Hyderabad,Ads,Yes,2024-09-29,Size Issue
+ORD101070,2024-02-18,2024-02-21,P1063,Electronics,Supplier C,253.89,1,South,Mumbai,Organic,No,,
+ORD101071,2024-12-13,2024-12-17,P1037,Home,Supplier A,417.95,4,South,Delhi,Email,No,,
+ORD101072,2024-06-07,2024-06-11,P1036,Beauty,Supplier B,1393.19,4,West,Mumbai,Social Media,No,,
+ORD101073,2024-05-03,2024-05-07,P1125,Beauty,Supplier C,1017.21,3,East,Chennai,Organic,No,,
+ORD101074,2024-11-12,2024-11-18,P1138,Electronics,Supplier C,749.11,3,South,Chennai,Social Media,No,,
+ORD101075,2024-07-25,2024-07-31,P1099,Sports,Supplier B,28.95,2,South,Delhi,Organic,No,,
+ORD101076,2024-02-17,2024-02-24,P1076,Home,Supplier C,1488.7,3,East,Hyderabad,Email,No,,
+ORD101077,2024-05-15,2024-05-21,P1002,Home,Supplier C,1010.47,3,South,Bangalore,Organic,No,,
+ORD101078,2024-07-19,2024-07-27,P1160,Electronics,Supplier A,482.21,1,North,Kolkata,Social Media,No,,
+ORD101079,2024-09-06,2024-09-14,P1133,Sports,Supplier A,1320.11,1,South,Kolkata,Social Media,No,,
+ORD101080,2024-11-09,2024-11-11,P1177,Home,Supplier A,395.06,3,East,Chennai,Email,No,,
+ORD101081,2024-12-22,2024-12-31,P1009,Home,Supplier A,820.58,2,North,Mumbai,Organic,No,,
+ORD101082,2024-11-13,2024-11-20,P1004,Home,Supplier A,957.75,1,South,Mumbai,Ads,No,,
+ORD101083,2024-10-21,2024-10-30,P1150,Sports,Supplier A,339.38,3,West,Hyderabad,Organic,No,,
+ORD101084,2024-11-09,2024-11-12,P1137,Electronics,Supplier B,1467.81,3,North,Bangalore,Email,Yes,2024-11-18,Not as Described
+ORD101085,2024-07-27,2024-08-01,P1171,Home,Supplier A,1124.81,4,North,Mumbai,Ads,No,,
+ORD101086,2024-12-20,2024-12-22,P1129,Beauty,Supplier C,841.14,2,West,Kolkata,Email,No,,
+ORD101087,2024-07-29,2024-08-01,P1012,Sports,Supplier B,279.09,4,West,Mumbai,Organic,No,,
+ORD101088,2024-07-10,2024-07-13,P1167,Fashion,Supplier C,90.25,2,South,Bangalore,Ads,No,,
+ORD101089,2024-02-13,2024-02-20,P1129,Electronics,Supplier A,486.89,1,South,Kolkata,Email,No,,
+ORD101090,2024-01-29,2024-02-02,P1083,Beauty,Supplier A,1132.25,2,East,Mumbai,Social Media,No,,
+ORD101091,2024-02-28,2024-03-03,P1064,Home,Supplier C,411.3,3,East,Kolkata,Ads,Yes,2024-03-11,Late Delivery
+ORD101092,2024-03-11,2024-03-20,P1062,Fashion,Supplier C,813.94,3,North,Chennai,Ads,Yes,2024-03-26,Damaged
+ORD101093,2024-04-01,2024-04-03,P1100,Electronics,Supplier C,1094.64,2,West,Chennai,Email,No,,
+ORD101094,2024-09-21,2024-09-25,P1072,Sports,Supplier D,170.84,2,West,Hyderabad,Social Media,No,,
+ORD101095,2024-08-07,2024-08-10,P1016,Fashion,Supplier D,1031.09,2,East,Chennai,Ads,Yes,2024-08-15,No Longer Needed
+ORD101096,2024-08-02,2024-08-06,P1008,Fashion,Supplier D,146.89,4,North,Mumbai,Email,No,,
+ORD101097,2024-10-03,2024-10-09,P1142,Beauty,Supplier D,1448.04,2,North,Bangalore,Ads,No,,
+ORD101098,2024-03-04,2024-03-08,P1151,Electronics,Supplier B,737.71,1,East,Kolkata,Ads,Yes,2024-03-19,Not as Described
+ORD101099,2024-12-11,2024-12-14,P1037,Beauty,Supplier A,234.51,4,East,Delhi,Ads,No,,
+ORD101100,2024-10-18,2024-10-27,P1162,Beauty,Supplier C,520.15,4,East,Chennai,Social Media,No,,
+ORD101101,2024-09-01,2024-09-08,P1093,Home,Supplier A,625.99,2,South,Chennai,Organic,No,,
+ORD101102,2024-03-02,2024-03-04,P1094,Sports,Supplier C,1139.7,1,North,Delhi,Organic,No,,
+ORD101103,2024-11-27,2024-12-02,P1048,Fashion,Supplier A,1117.7,4,North,Delhi,Social Media,No,,
+ORD101104,2024-06-18,2024-06-22,P1068,Electronics,Supplier B,921.79,3,North,Mumbai,Social Media,No,,
+ORD101105,2024-09-25,2024-10-03,P1061,Sports,Supplier D,167.84,4,East,Kolkata,Email,No,,
+ORD101106,2024-09-23,2024-10-01,P1187,Sports,Supplier A,235.84,2,East,Chennai,Ads,No,,
+ORD101107,2024-02-23,2024-03-03,P1177,Electronics,Supplier C,149.7,1,East,Bangalore,Social Media,No,,
+ORD101108,2024-01-16,2024-01-19,P1077,Sports,Supplier A,869.99,2,East,Mumbai,Email,No,,
+ORD101109,2024-01-08,2024-01-13,P1116,Home,Supplier B,1316.94,3,West,Mumbai,Organic,No,,
+ORD101110,2024-04-13,2024-04-18,P1119,Sports,Supplier B,656.36,3,East,Bangalore,Organic,Yes,2024-04-30,Late Delivery
+ORD101111,2024-02-28,2024-03-05,P1136,Home,Supplier A,249.66,3,South,Bangalore,Organic,No,,
+ORD101112,2024-11-08,2024-11-13,P1161,Fashion,Supplier D,841.48,2,West,Hyderabad,Organic,Yes,2024-11-21,Wrong Item
+ORD101113,2024-02-09,2024-02-17,P1075,Fashion,Supplier C,1219.51,4,West,Bangalore,Email,No,,
+ORD101114,2024-08-24,2024-08-31,P1034,Beauty,Supplier B,1115.15,2,East,Delhi,Ads,No,,
+ORD101115,2024-04-03,2024-04-06,P1000,Home,Supplier B,1323.36,1,North,Chennai,Email,No,,
+ORD101116,2024-08-09,2024-08-12,P1039,Fashion,Supplier A,424.07,4,East,Hyderabad,Ads,No,,
+ORD101117,2024-07-22,2024-07-26,P1063,Sports,Supplier B,298.99,3,North,Delhi,Organic,No,,
+ORD101118,2024-05-17,2024-05-21,P1149,Electronics,Supplier B,1320.93,2,East,Hyderabad,Social Media,No,,
+ORD101119,2024-10-26,2024-10-30,P1059,Electronics,Supplier C,989.76,3,East,Chennai,Social Media,Yes,2024-11-01,Wrong Item
+ORD101120,2024-07-25,2024-08-02,P1063,Home,Supplier D,473.28,3,North,Hyderabad,Social Media,No,,
+ORD101121,2024-12-01,2024-12-09,P1092,Beauty,Supplier C,1116.1,1,North,Delhi,Ads,Yes,2024-12-21,Size Issue
+ORD101122,2024-03-21,2024-03-30,P1071,Sports,Supplier D,1224.53,4,North,Kolkata,Organic,No,,
+ORD101123,2024-08-05,2024-08-13,P1010,Home,Supplier C,926.32,1,North,Chennai,Email,No,,
+ORD101124,2024-01-02,2024-01-10,P1104,Electronics,Supplier A,1034.95,1,South,Mumbai,Social Media,No,,
+ORD101125,2024-06-26,2024-07-04,P1013,Home,Supplier B,569.14,1,North,Chennai,Ads,No,,
+ORD101126,2024-12-11,2024-12-19,P1059,Sports,Supplier D,812.66,3,East,Chennai,Social Media,No,,
+ORD101127,2024-10-05,2024-10-12,P1029,Fashion,Supplier A,791.0,1,East,Chennai,Email,Yes,2024-10-13,Late Delivery
+ORD101128,2024-05-25,2024-06-02,P1034,Sports,Supplier B,1273.59,1,South,Kolkata,Organic,Yes,2024-06-03,Wrong Item
+ORD101129,2024-11-13,2024-11-22,P1164,Fashion,Supplier B,1261.55,4,North,Delhi,Email,No,,
+ORD101130,2024-08-11,2024-08-16,P1004,Fashion,Supplier B,1250.69,4,East,Mumbai,Organic,Yes,2024-08-30,Wrong Item
+ORD101131,2024-03-02,2024-03-07,P1082,Fashion,Supplier C,26.44,1,South,Delhi,Organic,No,,
+ORD101132,2024-10-20,2024-10-26,P1122,Home,Supplier A,1126.82,4,East,Hyderabad,Organic,No,,
+ORD101133,2024-08-26,2024-09-02,P1077,Electronics,Supplier A,1140.43,4,South,Hyderabad,Social Media,No,,
+ORD101134,2024-07-13,2024-07-17,P1153,Home,Supplier B,1020.78,1,South,Hyderabad,Email,No,,
+ORD101135,2024-06-14,2024-06-16,P1061,Electronics,Supplier D,1136.83,3,West,Delhi,Social Media,No,,
+ORD101136,2024-08-09,2024-08-17,P1131,Sports,Supplier A,1264.54,1,West,Bangalore,Email,No,,
+ORD101137,2024-03-01,2024-03-07,P1088,Beauty,Supplier C,710.78,4,North,Kolkata,Ads,Yes,2024-03-11,No Longer Needed
+ORD101138,2024-05-08,2024-05-10,P1041,Sports,Supplier D,758.05,3,West,Bangalore,Ads,No,,
+ORD101139,2024-06-21,2024-06-30,P1088,Home,Supplier D,195.82,2,South,Hyderabad,Email,No,,
+ORD101140,2024-06-04,2024-06-09,P1145,Home,Supplier D,584.21,3,East,Kolkata,Email,No,,
+ORD101141,2024-04-19,2024-04-25,P1039,Electronics,Supplier D,968.61,4,East,Delhi,Email,No,,
+ORD101142,2024-09-25,2024-10-04,P1071,Home,Supplier A,1172.8,3,North,Hyderabad,Email,No,,
+ORD101143,2024-12-21,2024-12-27,P1038,Fashion,Supplier B,333.64,1,West,Delhi,Organic,Yes,2025-01-02,Size Issue
+ORD101144,2024-10-04,2024-10-07,P1103,Home,Supplier D,215.36,2,North,Kolkata,Social Media,No,,
+ORD101145,2024-03-14,2024-03-23,P1013,Electronics,Supplier C,997.93,2,South,Delhi,Organic,Yes,2024-04-05,Not as Described
+ORD101146,2024-07-25,2024-07-30,P1031,Electronics,Supplier C,12.8,2,West,Delhi,Social Media,No,,
+ORD101147,2024-10-05,2024-10-10,P1178,Fashion,Supplier B,275.78,4,North,Mumbai,Social Media,No,,
+ORD101148,2024-11-21,2024-11-28,P1124,Electronics,Supplier A,53.32,4,East,Bangalore,Social Media,No,,
+ORD101149,2024-12-05,2024-12-11,P1165,Beauty,Supplier B,258.66,2,East,Bangalore,Organic,No,,
+ORD101150,2024-12-22,2024-12-30,P1096,Sports,Supplier D,280.17,3,North,Bangalore,Email,No,,
+ORD101151,2024-12-05,2024-12-10,P1022,Home,Supplier A,587.63,2,North,Chennai,Organic,No,,
+ORD101152,2024-07-22,2024-07-28,P1062,Beauty,Supplier A,609.47,3,North,Mumbai,Organic,No,,
+ORD101153,2024-06-09,2024-06-16,P1142,Home,Supplier D,1312.65,3,South,Hyderabad,Social Media,No,,
+ORD101154,2024-01-28,2024-02-05,P1152,Beauty,Supplier C,770.06,4,South,Hyderabad,Ads,No,,
+ORD101155,2024-09-13,2024-09-22,P1144,Home,Supplier D,1087.87,3,East,Hyderabad,Ads,No,,
+ORD101156,2024-06-13,2024-06-20,P1193,Fashion,Supplier B,165.16,2,South,Bangalore,Organic,Yes,2024-06-29,Wrong Item
+ORD101157,2024-03-03,2024-03-06,P1052,Electronics,Supplier D,345.9,4,South,Bangalore,Social Media,Yes,2024-03-07,Damaged
+ORD101158,2024-01-22,2024-01-30,P1103,Electronics,Supplier C,1057.39,1,West,Mumbai,Organic,Yes,2024-02-11,Damaged
+ORD101159,2024-03-10,2024-03-16,P1103,Fashion,Supplier D,88.68,1,South,Delhi,Organic,No,,
+ORD101160,2024-04-05,2024-04-10,P1178,Beauty,Supplier B,735.03,4,West,Bangalore,Email,No,,
+ORD101161,2024-06-11,2024-06-16,P1038,Sports,Supplier B,903.06,2,South,Hyderabad,Social Media,No,,
+ORD101162,2024-03-19,2024-03-25,P1178,Beauty,Supplier C,907.2,1,East,Delhi,Ads,No,,
+ORD101163,2024-01-05,2024-01-11,P1197,Electronics,Supplier B,44.17,1,North,Bangalore,Ads,No,,
+ORD101164,2024-11-11,2024-11-17,P1133,Sports,Supplier B,489.94,3,East,Kolkata,Ads,No,,
+ORD101165,2024-04-29,2024-05-03,P1066,Home,Supplier D,958.37,3,South,Chennai,Organic,Yes,2024-05-04,Not as Described
+ORD101166,2024-10-28,2024-11-05,P1134,Sports,Supplier A,232.01,2,North,Bangalore,Social Media,No,,
+ORD101167,2024-06-26,2024-07-01,P1178,Beauty,Supplier B,1046.17,4,North,Kolkata,Email,No,,
+ORD101168,2024-06-24,2024-07-02,P1199,Fashion,Supplier B,1121.43,2,North,Mumbai,Ads,Yes,2024-07-15,Late Delivery
+ORD101169,2024-08-04,2024-08-11,P1041,Home,Supplier C,1473.13,4,West,Kolkata,Social Media,No,,
+ORD101170,2024-02-25,2024-03-01,P1191,Beauty,Supplier C,322.66,1,East,Mumbai,Ads,No,,
+ORD101171,2024-07-05,2024-07-09,P1014,Home,Supplier D,1239.44,3,West,Bangalore,Email,No,,
+ORD101172,2024-08-19,2024-08-25,P1110,Sports,Supplier D,785.24,2,North,Mumbai,Social Media,No,,
+ORD101173,2024-09-11,2024-09-14,P1156,Electronics,Supplier B,566.46,2,East,Kolkata,Organic,No,,
+ORD101174,2024-04-13,2024-04-19,P1032,Beauty,Supplier A,192.34,4,East,Chennai,Organic,No,,
+ORD101175,2024-03-17,2024-03-26,P1154,Fashion,Supplier A,1105.9,4,South,Delhi,Ads,Yes,2024-04-08,Size Issue
+ORD101176,2024-08-17,2024-08-23,P1163,Sports,Supplier D,361.43,2,West,Delhi,Ads,Yes,2024-08-28,No Longer Needed
+ORD101177,2024-09-14,2024-09-18,P1156,Beauty,Supplier C,563.42,4,West,Chennai,Social Media,No,,
+ORD101178,2024-09-20,2024-09-28,P1037,Fashion,Supplier B,103.19,2,South,Hyderabad,Email,Yes,2024-10-08,Damaged
+ORD101179,2024-11-26,2024-12-01,P1184,Beauty,Supplier B,1204.04,2,West,Delhi,Ads,No,,
+ORD101180,2024-06-30,2024-07-06,P1096,Sports,Supplier A,1152.22,2,North,Bangalore,Social Media,No,,
+ORD101181,2024-09-12,2024-09-17,P1154,Beauty,Supplier D,1103.09,1,North,Hyderabad,Email,Yes,2024-09-22,Damaged
+ORD101182,2024-02-07,2024-02-09,P1182,Home,Supplier A,456.17,4,West,Bangalore,Ads,No,,
+ORD101183,2024-06-24,2024-07-01,P1032,Sports,Supplier A,268.49,3,South,Kolkata,Ads,No,,
+ORD101184,2024-01-27,2024-02-04,P1195,Beauty,Supplier D,959.95,3,East,Kolkata,Social Media,No,,
+ORD101185,2024-10-02,2024-10-07,P1085,Electronics,Supplier C,749.29,4,West,Hyderabad,Ads,No,,
+ORD101186,2024-05-19,2024-05-22,P1065,Beauty,Supplier B,275.6,2,East,Hyderabad,Organic,No,,
+ORD101187,2024-10-25,2024-11-01,P1009,Home,Supplier C,1032.01,3,South,Hyderabad,Email,No,,
+ORD101188,2024-10-13,2024-10-22,P1004,Fashion,Supplier D,1486.78,3,East,Hyderabad,Email,No,,
+ORD101189,2024-03-31,2024-04-09,P1122,Fashion,Supplier D,1123.36,4,South,Mumbai,Organic,No,,
+ORD101190,2024-03-01,2024-03-04,P1073,Fashion,Supplier B,1112.58,3,South,Hyderabad,Social Media,No,,
+ORD101191,2024-12-30,2025-01-05,P1096,Electronics,Supplier C,1425.97,2,North,Hyderabad,Organic,Yes,2025-01-10,Not as Described
+ORD101192,2024-12-12,2024-12-19,P1117,Home,Supplier B,312.38,4,North,Kolkata,Organic,Yes,2024-12-29,Late Delivery
+ORD101193,2024-06-11,2024-06-16,P1037,Sports,Supplier A,852.67,2,South,Bangalore,Email,Yes,2024-06-22,Late Delivery
+ORD101194,2024-12-16,2024-12-23,P1140,Fashion,Supplier A,1469.67,3,West,Kolkata,Social Media,No,,
+ORD101195,2024-05-22,2024-05-28,P1158,Home,Supplier A,256.29,3,North,Delhi,Ads,Yes,2024-06-05,Not as Described
+ORD101196,2024-09-09,2024-09-13,P1046,Beauty,Supplier C,1053.38,2,South,Mumbai,Organic,No,,
+ORD101197,2024-09-25,2024-10-03,P1108,Electronics,Supplier A,882.86,1,East,Mumbai,Organic,No,,
+ORD101198,2024-10-17,2024-10-20,P1179,Home,Supplier B,883.85,3,East,Bangalore,Social Media,No,,
+ORD101199,2024-07-05,2024-07-11,P1183,Home,Supplier C,1049.53,1,West,Hyderabad,Organic,No,,
